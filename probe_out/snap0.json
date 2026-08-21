@@ -1,0 +1,3257 @@
+[
+  {
+    "id": "1010385107476938904",
+    "created_at": "2026-08-20T03:09:41.670096Z",
+    "type": "buy_now",
+    "price": 59,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "13454797149056139603",
+      "online": true,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 58,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 2,
+        "total_verified_trades": 2
+      }
+    },
+    "reference": {
+      "base_price": 59,
+      "predicted_price": 59,
+      "quantity": 65,
+      "last_updated": "2026-08-20T03:06:34.533126Z"
+    },
+    "item": {
+      "asset_id": "52288286935",
+      "def_index": 1209,
+      "sticker_index": 10563,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiLzz4Lf-y1S47z4bvw5I6nFWmXIkL8k5uNvGy_jwRwi6mmDwtz9dnvEOgYlWMNzRrIJrFDmxSxUBtN3",
+      "rarity": 4,
+      "market_hash_name": "Sticker | b1t (Foil) | Cologne 2026",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010D7E1FFE4C20118B909280430006205080010C352F686003C",
+      "is_commodity": true,
+      "type": "sticker",
+      "rarity_name": "Remarkable",
+      "type_name": "Sticker",
+      "item_name": "b1t (Foil) | Cologne 2026",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010D7E1FFE4C20118B909280430006205080010C352F686003C",
+      "gs_sig": "d6512082bd582768cf69"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010385105954406543",
+    "created_at": "2026-08-20T03:09:41.307838Z",
+    "type": "buy_now",
+    "price": 260,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "13454797149056139603",
+      "online": true,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 58,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 2,
+        "total_verified_trades": 2
+      }
+    },
+    "reference": {
+      "base_price": 260,
+      "predicted_price": 260,
+      "quantity": 613,
+      "last_updated": "2026-08-20T03:06:34.533126Z"
+    },
+    "item": {
+      "asset_id": "53009551175",
+      "def_index": 58,
+      "music_kit_index": 60,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuN3mZ6kVKpNa6vgjlRByknJOw-CEK7KP_bPZrefPGVmSTk7py4bY8Tivlx0Vw4z_SzsHpLyyu3lGzoA",
+      "is_stattrak": false,
+      "rarity": 3,
+      "market_hash_name": "Music Kit | bbno$, u mad!",
+      "tradable": 0,
+      "is_commodity": true,
+      "type": "music_kit",
+      "rarity_name": "High Grade",
+      "type_name": "Music Kit",
+      "item_name": "bbno$, u mad!"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010385104780001412",
+    "created_at": "2026-08-20T03:09:41.027708Z",
+    "type": "buy_now",
+    "price": 413,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "13454797149056139603",
+      "online": true,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 58,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 2,
+        "total_verified_trades": 2
+      }
+    },
+    "reference": {
+      "base_price": 242,
+      "float_factor": 1.7086551,
+      "predicted_price": 413,
+      "quantity": 3165,
+      "last_updated": "2026-08-20T03:06:34.533126Z"
+    },
+    "item": {
+      "asset_id": "52970775590",
+      "def_index": 7,
+      "paint_index": 1218,
+      "paint_seed": 811,
+      "float_value": 0.1509113907814026,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wjFU6s2neq1pJeOQC2mE_v5jovFlSha-kBkupjDLntqod3OSbAMjWJByELIOthe7moDgPuKw5QKL34tGzi-o3Xwbvy1v6_FCD_QOiqc-9g",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 4,
+      "quality": 4,
+      "market_hash_name": "AK-47 | Midnight Laminate (Field-Tested)",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010A6C8B7AAC501180720C20928043004388491EAF00340AB0678AE2FE0",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Restricted",
+      "type_name": "Skin",
+      "item_name": "AK-47 | Midnight Laminate",
+      "wear_name": "Field-Tested",
+      "description": "The buttstock, handguard, and grip have been painted blue. The rest of the AK-47 has been painted iridescent purple.\\n\\n<i>That's one way to get their attention\u2026</i>",
+      "collection": "The Ascent Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010A6C8B7AAC501180720C20928043004388491EAF00340AB0678AE2FE0",
+      "gs_sig": "135cc3b3535f9a32b428"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010385102590574699",
+    "created_at": "2026-08-20T03:09:40.505856Z",
+    "type": "buy_now",
+    "price": 574,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "13454797149056139603",
+      "online": true,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 58,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 2,
+        "total_verified_trades": 2
+      }
+    },
+    "reference": {
+      "base_price": 463,
+      "float_factor": 1.2404581,
+      "predicted_price": 574,
+      "quantity": 703,
+      "last_updated": "2026-08-20T03:06:34.533126Z"
+    },
+    "item": {
+      "asset_id": "52962792270",
+      "def_index": 9,
+      "paint_index": 975,
+      "paint_seed": 663,
+      "float_value": 0.16703709959983826,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf-jFk7uW-V6F1L-OYC2uV1eF4j-xsSyCmmFMitWyAm9upeHKQPQV1A5QkQrNeuxDrl9bkN7jntQCKid1HySr2j3hL8G81tK2aS0eQ",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 4,
+      "quality": 4,
+      "market_hash_name": "AWP | Exoskeleton (Field-Tested)",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010CEA6D0A6C501180920CF072804300438C697ACF103409705FB328060",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Restricted",
+      "type_name": "Skin",
+      "item_name": "AWP | Exoskeleton",
+      "wear_name": "Field-Tested",
+      "description": "The metal on this AWP has been intricately pressed with patterns of interlocking skulls.\\n\\n<i>Full tilt</i>",
+      "collection": "The Operation Broken Fang Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010CEA6D0A6C501180920CF072804300438C697ACF103409705FB328060",
+      "gs_sig": "8256a89cb66ae1bd9e25"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010385096924069941",
+    "created_at": "2026-08-20T03:09:39.154754Z",
+    "type": "buy_now",
+    "price": 684,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "2539140224228169888",
+      "online": true,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 186,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 92,
+        "total_verified_trades": 92
+      }
+    },
+    "reference": {
+      "base_price": 691,
+      "predicted_price": 691,
+      "quantity": 363,
+      "last_updated": "2026-08-20T03:08:22.906008Z"
+    },
+    "item": {
+      "asset_id": "53270726575",
+      "def_index": 1209,
+      "sticker_index": 8018,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNmpNCnHtwI65obg52bvThH-0M6w_CAM7Pb5P6E4cKHLXD7Jl-0nseIxHHuyk0hy5z7Twt__JymUZwU-Sswna7ANHuI",
+      "rarity": 5,
+      "market_hash_name": "Sticker | Rare Atom (Holo) | Shanghai 2024",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010AF8FBBB9C60118B909280530006205080010D23E334E4050",
+      "is_commodity": true,
+      "type": "sticker",
+      "rarity_name": "Exotic",
+      "type_name": "Sticker",
+      "item_name": "Rare Atom (Holo) | Shanghai 2024",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010AF8FBBB9C60118B909280530006205080010D23E334E4050",
+      "gs_sig": "6b8ad9e40c0ff4acfd5a"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010385096882126900",
+    "created_at": "2026-08-20T03:09:39.144975Z",
+    "type": "buy_now",
+    "price": 684,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "2539140224228169888",
+      "online": true,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 186,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 92,
+        "total_verified_trades": 92
+      }
+    },
+    "reference": {
+      "base_price": 691,
+      "predicted_price": 691,
+      "quantity": 363,
+      "last_updated": "2026-08-20T03:08:22.906008Z"
+    },
+    "item": {
+      "asset_id": "53270726576",
+      "def_index": 1209,
+      "sticker_index": 8018,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNmpNCnHtwI65obg52bvThH-0M6w_CAM7Pb5P6E4cKHLXD7Jl-0nseIxHHuyk0hy5z7Twt__JymUZwU-Sswna7ANHuI",
+      "rarity": 5,
+      "market_hash_name": "Sticker | Rare Atom (Holo) | Shanghai 2024",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010B08FBBB9C60118B909280530006205080010D23EF94C6C00",
+      "is_commodity": true,
+      "type": "sticker",
+      "rarity_name": "Exotic",
+      "type_name": "Sticker",
+      "item_name": "Rare Atom (Holo) | Shanghai 2024",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010B08FBBB9C60118B909280530006205080010D23EF94C6C00",
+      "gs_sig": "1d1eabee1a2bdfcebb91"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010385080142663606",
+    "created_at": "2026-08-20T03:09:35.153343Z",
+    "type": "buy_now",
+    "price": 21163,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/b73c661b4c1286030ceec699ecd5d64610fa4c5c_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 291,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 581,
+        "total_verified_trades": 581
+      },
+      "steam_id": "76561198061460405",
+      "username": "Quievi"
+    },
+    "reference": {
+      "base_price": 20321,
+      "float_factor": 1.0414582,
+      "predicted_price": 21163,
+      "quantity": 218,
+      "last_updated": "2026-08-20T03:09:04.169648Z"
+    },
+    "item": {
+      "asset_id": "53256535925",
+      "def_index": 9,
+      "paint_index": 1422,
+      "paint_seed": 269,
+      "float_value": 0.0698210746049881,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 6,
+      "quality": 4,
+      "market_hash_name": "AWP | Queen's Gambit (Factory New)",
+      "tradable": 0,
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Covert",
+      "type_name": "Skin",
+      "item_name": "AWP | Queen's Gambit",
+      "wear_name": "Factory New",
+      "description": "It has been custom painted using royal blue and gold. A queen has been hand painted in front of the butt stock.\\n\\n<i>Every shot is a royal decree of power and precision</i>",
+      "collection": "The Dead Hand Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010F5FED8B2C6011809208E0B2806300438DAFCBBEC03408D0202314390",
+      "gs_sig": "b1b1d3fdae84d3089f43"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 1
+  },
+  {
+    "id": "1010385080067166132",
+    "created_at": "2026-08-20T03:09:35.135053Z",
+    "type": "buy_now",
+    "price": 12300,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "6527812832879252875",
+      "online": true,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 93,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 1,
+        "total_trades": 73,
+        "total_verified_trades": 72
+      }
+    },
+    "reference": {
+      "base_price": 12543,
+      "float_factor": 0.985797,
+      "predicted_price": 12365,
+      "quantity": 47,
+      "last_updated": "2026-08-20T03:09:23.639024Z"
+    },
+    "item": {
+      "asset_id": "53249024535",
+      "def_index": 522,
+      "paint_index": 5,
+      "paint_seed": 292,
+      "float_value": 0.13749189674854279,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1I-_uibbB5L8-bF1iUxf53pN5lRi67gVN_4mrQzt74eCmebgUhXJFzTbQMshm-wd2zM--xtAbYi48Xmy_-3CMb8G81tPLKibvi",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 6,
+      "quality": 3,
+      "market_hash_name": "\u2605 Stiletto Knife | Forest DDPAT (Minimal Wear)",
+      "low_rank": 734,
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20001097C48EAFC601188A0420052806300338AD95B3F00340A40284FB7218",
+      "cs2_screenshot_id": "5256914589921365850",
+      "cs2_screenshot_at": "2026-08-19T03:32:01.072872Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Covert",
+      "type_name": "Skin",
+      "item_name": "\u2605 Stiletto Knife | Forest DDPAT",
+      "wear_name": "Minimal Wear",
+      "description": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n<i>By the time you're close enough to notice the pixels it's already too late</i>",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20001097C48EAFC601188A0420052806300338AD95B3F00340A40284FB7218",
+      "gs_sig": "a236c2ef7e6f3715d475"
+    },
+    "is_seller": false,
+    "min_offer_price": 11316,
+    "max_offer_discount": 800,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010385075457626011",
+    "created_at": "2026-08-20T03:09:34.036676Z",
+    "type": "buy_now",
+    "price": 772,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/85d355e1075e5d60e977289bcb484faea0e353e3_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": false,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 55,
+        "total_avoided_trades": 13,
+        "total_failed_trades": 10,
+        "total_trades": 9582,
+        "total_verified_trades": 9572
+      },
+      "steam_id": "76561198877408632",
+      "username": "GreenLine"
+    },
+    "reference": {
+      "base_price": 726,
+      "float_factor": 0.9740458,
+      "predicted_price": 707,
+      "quantity": 196,
+      "last_updated": "2026-08-20T03:09:34.029493Z"
+    },
+    "item": {
+      "asset_id": "53143828647",
+      "def_index": 32,
+      "paint_index": 338,
+      "paint_seed": 272,
+      "float_value": 0.05022214725613594,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL5lYayrXIL0PG7V7Q_cKDDMXeFzf1zj-1gSCGn201wsTnRm9egcS7DaABxDZckQe5Ys0S6xtKxZO-wsQDbi9lMxSv-jS5XrnE8fJdFk9o",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 3,
+      "quality": 4,
+      "market_hash_name": "P2000 | Pulse (Factory New)",
+      "tradable": 0,
+      "cs2_screenshot_id": "7510806645559899421",
+      "cs2_screenshot_at": "2026-08-08T19:43:58.397953Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Mil-Spec Grade",
+      "type_name": "Skin",
+      "item_name": "P2000 | Pulse",
+      "wear_name": "Factory New",
+      "description": "It has been painted with a hydrographic of bold fuchsia fragments.\\n\\n<i>Striking colors for a striking weapon</i>",
+      "collection": "The Huntsman Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010A7F1F9FCC501182020D2022803300438BDEBB6EA03409002520E3C00",
+      "gs_sig": "572a93c3d9bedea89d38"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010385064183336753",
+    "created_at": "2026-08-20T03:09:31.348251Z",
+    "type": "buy_now",
+    "price": 21769,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "221225881979783606",
+      "online": true,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 147,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 3,
+        "total_verified_trades": 3
+      }
+    },
+    "reference": {
+      "base_price": 20000,
+      "float_factor": 1.0081481,
+      "predicted_price": 20163,
+      "quantity": 174,
+      "last_updated": "2026-08-20T03:09:05.113018Z"
+    },
+    "item": {
+      "asset_id": "51816270974",
+      "def_index": 512,
+      "paint_index": 569,
+      "paint_seed": 600,
+      "float_value": 0.03412564471364021,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1d7v6tYK1iLs-SA1iXwON7sd5tQDmjmRg1jC2Nm5z8cBTLN1F4TowmFu4P4xaxkIHjMOrhs1CLjo5FxCj83XxN6Cs_6upWUKJ3_PLShg6SL_RjttqUSV6v",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 6,
+      "quality": 3,
+      "market_hash_name": "\u2605 Falchion Knife | Gamma Doppler (Factory New)",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010FE98F683C10118800420B9042806300338D58EAFE80340D8042FBEF3FF",
+      "cs2_screenshot_id": "523502965833763764",
+      "cs2_screenshot_at": "2026-05-29T21:05:42.98391Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Covert",
+      "type_name": "Skin",
+      "item_name": "\u2605 Falchion Knife | Gamma Doppler",
+      "wear_name": "Factory New",
+      "phase": "Phase 1",
+      "description": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010FE98F683C10118800420B9042806300338D58EAFE80340D8042FBEF3FF",
+      "gs_sig": "e8d7016541a3c60b9e90"
+    },
+    "is_seller": false,
+    "min_offer_price": 20028,
+    "max_offer_discount": 800,
+    "is_watchlisted": false,
+    "watchers": 1
+  },
+  {
+    "id": "1010385061943578394",
+    "created_at": "2026-08-20T03:09:30.814712Z",
+    "type": "buy_now",
+    "price": 65000,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "9697681670102174511",
+      "online": true,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 305,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 2,
+        "total_trades": 104,
+        "total_verified_trades": 102
+      }
+    },
+    "reference": {
+      "base_price": 53290,
+      "float_factor": 1.0343581,
+      "predicted_price": 55346,
+      "keychain_price": 225,
+      "quantity": 1099,
+      "last_updated": "2026-08-20T03:09:04.148802Z"
+    },
+    "item": {
+      "asset_id": "52350590125",
+      "def_index": 60,
+      "paint_index": 1017,
+      "paint_seed": 108,
+      "float_value": 0.008549749851226807,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_GeMWrEwL9lj-NlWiygmBIstgKJk4jxNWWeOg5xDJR2Q-5b5BGwxIDuP7uw4ALa3ohMz3n3iypLvyc55-pQUKct5OSJ2OKlF5Nn",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 5,
+      "quality": 4,
+      "market_hash_name": "M4A1-S | Blue Phosphor (Factory New)",
+      "stickers": [
+        {
+          "stickerId": 4936,
+          "slot": 0,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMWxCmme9UJ88IK77UviQAnOiZf2-B1d4PuiJqc9caaRXjTDwuxw4-dvTHCylxh_4G_Un9-ucXKUP1BxCpZ2F-cPs0Sm0oqwdA1dsMk",
+          "name": "Sticker | Great Wave (Foil)",
+          "reference": {
+            "price": 1191,
+            "quantity": 309,
+            "updated_at": "2026-08-19T01:53:40.608056Z"
+          }
+        },
+        {
+          "stickerId": 4936,
+          "slot": 1,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMWxCmme9UJ88IK77UviQAnOiZf2-B1d4PuiJqc9caaRXjTDwuxw4-dvTHCylxh_4G_Un9-ucXKUP1BxCpZ2F-cPs0Sm0oqwdA1dsMk",
+          "name": "Sticker | Great Wave (Foil)",
+          "reference": {
+            "price": 1191,
+            "quantity": 309,
+            "updated_at": "2026-08-19T01:53:40.608056Z"
+          }
+        },
+        {
+          "stickerId": 4936,
+          "slot": 2,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMWxCmme9UJ88IK77UviQAnOiZf2-B1d4PuiJqc9caaRXjTDwuxw4-dvTHCylxh_4G_Un9-ucXKUP1BxCpZ2F-cPs0Sm0oqwdA1dsMk",
+          "name": "Sticker | Great Wave (Foil)",
+          "reference": {
+            "price": 1191,
+            "quantity": 309,
+            "updated_at": "2026-08-19T01:53:40.608056Z"
+          }
+        },
+        {
+          "stickerId": 4936,
+          "slot": 3,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMWxCmme9UJ88IK77UviQAnOiZf2-B1d4PuiJqc9caaRXjTDwuxw4-dvTHCylxh_4G_Un9-ucXKUP1BxCpZ2F-cPs0Sm0oqwdA1dsMk",
+          "name": "Sticker | Great Wave (Foil)",
+          "reference": {
+            "price": 1191,
+            "quantity": 309,
+            "updated_at": "2026-08-19T01:53:40.608056Z"
+          }
+        },
+        {
+          "stickerId": 4936,
+          "slot": 1,
+          "offset_x": -0.004638791,
+          "offset_y": 0.063920766,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMWxCmme9UJ88IK77UviQAnOiZf2-B1d4PuiJqc9caaRXjTDwuxw4-dvTHCylxh_4G_Un9-ucXKUP1BxCpZ2F-cPs0Sm0oqwdA1dsMk",
+          "name": "Sticker | Great Wave (Foil)",
+          "reference": {
+            "price": 1191,
+            "quantity": 309,
+            "updated_at": "2026-08-19T01:53:40.608056Z"
+          }
+        }
+      ],
+      "keychains": [
+        {
+          "stickerId": 18,
+          "slot": 0,
+          "offset_x": 1.0090432,
+          "offset_y": 0.331838,
+          "offset_z": 7.3484383,
+          "pattern": 94081,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IW2MHqH6lhKpcj_6WbwURPOn53f9ydX4-vgPvw_efKXXzWWkL0ksrQwGCjmlBl24DjUyNipcS-WOFQoDsd2Te9Zsg74zIPxCozwxw",
+          "name": "Charm | Die-cast AK",
+          "reference": {
+            "price": 227,
+            "quantity": 6546,
+            "updated_at": "2026-08-19T00:51:33.366206Z"
+          }
+        }
+      ],
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010ADB9DA82C301183C20F9072805300438C0A8B0E003406C620A080010C8261D00000000620A080110C8261D00000000620A080210C8261D00000000620A080310C8261D000000006214080110C8261D000000003D000198BB45E4E8823DA2011C080010121D000000003D5428813F45ACE6A93E4D6826EB405081DF05D421E8D0",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Classified",
+      "type_name": "Skin",
+      "item_name": "M4A1-S | Blue Phosphor",
+      "wear_name": "Factory New",
+      "description": "Multiple layers of metallic blue paint have been applied over a chrome blue base coat.\\n\\n<i>Feeling blue?</i>",
+      "collection": "The Control Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010ADB9DA82C301183C20F9072805300438C0A8B0E003406C620A080010C8261D00000000620A080110C8261D00000000620A080210C8261D00000000620A080310C8261D000000006214080110C8261D000000003D000198BB45E4E8823DA2011C080010121D000000003D5428813F45ACE6A93E4D6826EB405081DF05D421E8D0",
+      "gs_sig": "a5741a7b7ca55436ed86"
+    },
+    "is_seller": false,
+    "min_offer_price": 59800,
+    "max_offer_discount": 800,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010385056553897697",
+    "created_at": "2026-08-20T03:09:29.529092Z",
+    "type": "buy_now",
+    "price": 2243,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "18034957553750280009",
+      "online": false,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 99,
+        "total_avoided_trades": 1,
+        "total_failed_trades": 5,
+        "total_trades": 838,
+        "total_verified_trades": 833
+      }
+    },
+    "reference": {
+      "base_price": 1936,
+      "float_factor": 1.0075642,
+      "predicted_price": 1951,
+      "quantity": 516,
+      "last_updated": "2026-08-20T03:09:29.521785Z"
+    },
+    "item": {
+      "asset_id": "53021921388",
+      "def_index": 24,
+      "paint_index": 37,
+      "paint_seed": 363,
+      "float_value": 0.03212035447359085,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1a7s2oZKVgJeOsAm6Xyfo4srhvSi21wUoi4j_Xzt7_di6RaQ4mA5YhRuIMtEbswIDmMbzg5ACN35UFk3uW8e_n9A",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 3,
+      "quality": 4,
+      "market_hash_name": "UMP-45 | Blaze (Factory New)",
+      "stickers": [
+        {
+          "stickerId": 1135,
+          "slot": 2,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOW6a50NmptelvBb0SBrOmJr17ipaofP4aaBoc6eVWWLBlrdztedtG3jhzR8jsTjTyIytc3iXbwIoA5twF-EU8k7vwS9L91s",
+          "name": "Sticker | flusha | MLG Columbus 2016",
+          "reference": {
+            "price": 133,
+            "quantity": 30,
+            "updated_at": "2026-08-19T14:12:08.257279Z"
+          }
+        },
+        {
+          "stickerId": 1147,
+          "slot": 3,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOW6a50NmptelvBb0SBrOmpPu8ytIoaWvPqZocvPBCjOTw-t16OA7Fnm3xxh3sm_RmdyoeHmQPAIoX8ZyF-YU8k7vPPvMq2w",
+          "name": "Sticker | dennis | MLG Columbus 2016",
+          "reference": {
+            "price": 118,
+            "quantity": 30,
+            "updated_at": "2026-08-19T14:12:08.257279Z"
+          }
+        }
+      ],
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010ECA0E9C2C501181820252803300438A2A18EE80340EB02620A080210EF081D00000000620A080310FB081D0000000000C6E493",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Mil-Spec Grade",
+      "type_name": "Skin",
+      "item_name": "UMP-45 | Blaze",
+      "wear_name": "Factory New",
+      "description": "It has been painted by airbrushing transparent paints over a chrome base coat.",
+      "collection": "The Mirage Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010ECA0E9C2C501181820252803300438A2A18EE80340EB02620A080210EF081D00000000620A080310FB081D0000000000C6E493",
+      "gs_sig": "d0b2ecc698ed77421f0f"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010385053542387410",
+    "created_at": "2026-08-20T03:09:28.811915Z",
+    "type": "buy_now",
+    "price": 36,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/f2693f4bb2f13492b70e15845a0d7e8ff4b846c1_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 619,
+        "total_avoided_trades": 16,
+        "total_failed_trades": 17,
+        "total_trades": 5588,
+        "total_verified_trades": 5571
+      },
+      "steam_id": "76561199172326659",
+      "username": "wadu"
+    },
+    "reference": {
+      "base_price": 17,
+      "float_factor": 1,
+      "predicted_price": 17,
+      "quantity": 428,
+      "last_updated": "2026-08-20T03:05:29.639205Z"
+    },
+    "item": {
+      "asset_id": "53312156426",
+      "def_index": 23,
+      "paint_index": 1137,
+      "paint_seed": 164,
+      "float_value": 0.1350809931755066,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsPz-R1c_M2jePFSK_mXMWmVwvx5vu5kRiq8myIrujqNjsH8JXqXPVAhDZVyR7YO4ETrxtLvZbmxtAXfiIpCzHr5h3tB635j4-gCT-N7reJfmdfh",
+      "is_stattrak": true,
+      "is_souvenir": false,
+      "rarity": 3,
+      "quality": 9,
+      "market_hash_name": "StatTrak\u2122 MP5-SD | Necro Jr. (Minimal Wear)",
+      "stickers": [
+        {
+          "stickerId": 5504,
+          "slot": 0,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMuvIWyS90YnpNWmpUruRiLliZ_z6ThBoaL-aqI5dPXHVjDGl7kj4bc4H362wk9zsWXUz4z9cHmRag50W5dyR-MU8k7vBPotyfM",
+          "name": "Sticker | Twistzz | Antwerp 2022",
+          "reference": {
+            "price": 3,
+            "quantity": 45,
+            "updated_at": "2026-08-19T02:55:12.433299Z"
+          }
+        },
+        {
+          "stickerId": 5273,
+          "slot": 1,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMuvIWyS90YnpNWmpVHiUxLOlpns8mxavff9MaZvdajAW2TEkrdzsrJoSn_nxR9-sGvSzNz9cn7FPAdyApskW6dU5cYJIdH7",
+          "name": "Sticker | Heroic (Holo) | Antwerp 2022",
+          "reference": {
+            "price": 146,
+            "quantity": 584,
+            "updated_at": "2026-08-19T04:58:09.62681Z"
+          }
+        },
+        {
+          "stickerId": 5512,
+          "slot": 2,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMuvIWyS90YnpNWmpUruRiLjkYb6s3AO6fT5O_M8caLBDD_GmL11tbU8HHnkkU9_tmXdyon9cXjDbAMkAsNuBbldNOUgPD4",
+          "name": "Sticker | ropz | Antwerp 2022",
+          "reference": {
+            "price": 2,
+            "quantity": 371,
+            "updated_at": "2026-08-19T05:59:58.145034Z"
+          }
+        },
+        {
+          "stickerId": 5540,
+          "slot": 3,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMuvIWyS90YnpNWmpUruRiLzkZnt_y4PoaP-OqY_cfaVVzPBkb8n5rI9GCrlwh5zsm_cnt37IyqfaAAhDJsjE-cU8k7vZI-DtLU",
+          "name": "Sticker | Boombl4 | Antwerp 2022",
+          "reference": {
+            "price": 1,
+            "quantity": 251,
+            "updated_at": "2026-08-19T04:57:58.67517Z"
+          }
+        }
+      ],
+      "tradable": 0,
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Mil-Spec Grade",
+      "type_name": "Skin",
+      "item_name": "MP5-SD | Necro Jr.",
+      "wear_name": "Minimal Wear",
+      "description": "It has been custom painted with fairytale inspired creatures and a chicken on the silencer.\\n\\n<i>Playtime is over!</i>",
+      "collection": "The Dreams & Nightmares Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%2000108AE69BCDC601181720F1082803300938ACA5A9F00340A401480050B90A620A080010802B1D00000000620A08011099291D00000000620A080210882B1D00000000620A080310A42B1D000000005C25F9CA",
+      "gs_sig": "fddfb3b84b3bc64b3188"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384999108709724",
+    "created_at": "2026-08-20T03:09:15.833197Z",
+    "type": "buy_now",
+    "price": 14500,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "4900195603419669462",
+      "online": true,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 70,
+        "total_avoided_trades": 1,
+        "total_failed_trades": 0,
+        "total_trades": 99,
+        "total_verified_trades": 99
+      }
+    },
+    "reference": {
+      "base_price": 13022,
+      "float_factor": 0.97278804,
+      "predicted_price": 12668,
+      "quantity": 25,
+      "last_updated": "2026-08-20T03:08:59.110979Z"
+    },
+    "item": {
+      "asset_id": "53246631251",
+      "def_index": 500,
+      "paint_index": 40,
+      "paint_seed": 791,
+      "float_value": 0.718517541885376,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzn4_v8ydP0OGhV6pkJ_iHMW-VwPhv_udqTH7klk5-6j_TzNiqdn2UPFUjApAlEbIMs0O9x9DvM7634VPf3Y9bjXKpDU6DF2I",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 6,
+      "quality": 3,
+      "market_hash_name": "\u2605 Bayonet | Night (Battle-Scarred)",
+      "high_rank": 210,
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010D3BAFCADC60118F40320282806300338C4E1DFF903409706FD5E4E28",
+      "cs2_screenshot_id": "5295247363382502635",
+      "cs2_screenshot_at": "2026-08-20T03:09:25.767205Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Covert",
+      "type_name": "Skin",
+      "item_name": "\u2605 Bayonet | Night",
+      "wear_name": "Battle-Scarred",
+      "description": "It has individual parts spray-painted solid colors in a night ops color scheme.\\n\\n<i>It's the whisper of the wind... it's the bite at your neck</i>",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010D3BAFCADC60118F40320282806300338C4E1DFF903409706FD5E4E28",
+      "gs_sig": "53ec92632ce2e1c1412a"
+    },
+    "is_seller": false,
+    "min_offer_price": 14065,
+    "max_offer_discount": 300,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384985338809603",
+    "created_at": "2026-08-20T03:09:12.550131Z",
+    "type": "buy_now",
+    "price": 179,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/b4537defe8533eff4e9d5edd4191ceb09351ccc1_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": false,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 56,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 818,
+        "total_verified_trades": 818
+      },
+      "steam_id": "76561199867594648",
+      "username": "Bonanza"
+    },
+    "reference": {
+      "base_price": 98,
+      "float_factor": 1,
+      "predicted_price": 98,
+      "quantity": 268,
+      "last_updated": "2026-08-20T03:09:12.539273Z"
+    },
+    "item": {
+      "asset_id": "53314962031",
+      "def_index": 29,
+      "paint_index": 953,
+      "paint_seed": 202,
+      "float_value": 0.11428433656692505,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2tfZt-IeeWCmiWx9F3oO5qTiWqhQkojDGMnYftb3vFbVcmDsRwEOdbtkW4lIbiMOrh4FaIiYMQxXmoiXkd7n1o5b4AWKM7uvqARUQpSmk",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 4,
+      "quality": 4,
+      "market_hash_name": "Sawed-Off | Apocalypto (Minimal Wear)",
+      "stickers": [
+        {
+          "stickerId": 5132,
+          "slot": 0,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1Onic7QQlpta7-VDgfg30jJDl_jZUoaL7O_xsdqfKW2HDwLki4eM4G3zkw0lztW-Aydz7I3uXPQclA5MkF7QU8k7v6X6VlY0",
+          "name": "Sticker | Perfecto | Stockholm 2021",
+          "reference": {
+            "price": 1,
+            "quantity": 961,
+            "updated_at": "2026-08-19T13:10:41.016546Z"
+          }
+        },
+        {
+          "stickerId": 5132,
+          "slot": 1,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1Onic7QQlpta7-VDgfg30jJDl_jZUoaL7O_xsdqfKW2HDwLki4eM4G3zkw0lztW-Aydz7I3uXPQclA5MkF7QU8k7v6X6VlY0",
+          "name": "Sticker | Perfecto | Stockholm 2021",
+          "reference": {
+            "price": 1,
+            "quantity": 961,
+            "updated_at": "2026-08-19T13:10:41.016546Z"
+          }
+        },
+        {
+          "stickerId": 5132,
+          "slot": 2,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNm1Onic7QQlpta7-VDgfg30jJDl_jZUoaL7O_xsdqfKW2HDwLki4eM4G3zkw0lztW-Aydz7I3uXPQclA5MkF7QU8k7v6X6VlY0",
+          "name": "Sticker | Perfecto | Stockholm 2021",
+          "reference": {
+            "price": 1,
+            "quantity": 961,
+            "updated_at": "2026-08-19T13:10:41.016546Z"
+          }
+        },
+        {
+          "stickerId": 4823,
+          "slot": 3,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNioJW-e4VNK55Lm7ErvTg2-lJfn-jtd5uGmV_Q-bvbBXzaRluhw6ec7Gnziw0Ql42rdy4mudniTZlMpD5VwRuQKuka7kIH5d7S1Gr_cieE",
+          "name": "Sticker | Purple Jaggyfish",
+          "reference": {
+            "price": 148,
+            "quantity": 125,
+            "updated_at": "2026-08-19T13:10:44.992178Z"
+          }
+        }
+      ],
+      "tradable": 0,
+      "cs2_screenshot_id": "203398344047964405",
+      "cs2_screenshot_at": "2026-08-20T03:09:25.964804Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Restricted",
+      "type_name": "Skin",
+      "item_name": "Sawed-Off | Apocalypto",
+      "wear_name": "Minimal Wear",
+      "description": "A decomposing hand reaching for a bomb-like planet has been custom painted over a purple outer space background.\\n\\n<i>\\\"Have you got the time?\\\"</i>",
+      "collection": "The Prisma 2 Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010EF84C7CEC601181D20B9072804300438E89BA8EF0340CA01620A0800108C281D00000000620A0801108C281D00000000620A0802108C281D00000000620A080310D7251D0000000006B16F38",
+      "gs_sig": "589b38c3aa27da10dc0f"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384970235120765",
+    "created_at": "2026-08-20T03:09:08.949175Z",
+    "type": "buy_now",
+    "price": 284,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/c19f6a9626a7a47afedfd6a7a4599eed598821f8_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": false,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 55,
+        "total_avoided_trades": 8,
+        "total_failed_trades": 8,
+        "total_trades": 10431,
+        "total_verified_trades": 10423
+      },
+      "steam_id": "76561198877339025",
+      "username": "Like Fire"
+    },
+    "reference": {
+      "base_price": 219,
+      "float_factor": 1.2576163,
+      "predicted_price": 275,
+      "quantity": 274,
+      "last_updated": "2026-08-20T03:09:08.94381Z"
+    },
+    "item": {
+      "asset_id": "53063014852",
+      "def_index": 2,
+      "paint_index": 1086,
+      "paint_seed": 554,
+      "float_value": 0.011783151887357235,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1I_82rZqNkLvWsCm6C1fdJvOhuRz39x0txtzuHn9j_cn6VbVMiCpJ4Q-MCuhDukYXnN-7q4wTbjIlGzij9jzQJsHgVbYzf3Q",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 1,
+      "quality": 4,
+      "market_hash_name": "Dual Berettas | Oil Change (Factory New)",
+      "tradable": 0,
+      "cs2_screenshot_id": "7733648700366568804",
+      "cs2_screenshot_at": "2026-08-04T08:14:09.347205Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Consumer Grade",
+      "type_name": "Skin",
+      "item_name": "Dual Berettas | Oil Change",
+      "wear_name": "Factory New",
+      "description": "It has been spray-painted with a pattern of engine components.\\n\\n<i>\\\"It doesn't look good...\\\"</i>",
+      "collection": "The 2021 Vertigo Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010C4B3B5D6C501180220BE0828013004389F9C84E20340AA04A3EB6CF8",
+      "gs_sig": "fa942b063bec7bb7e6db"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384969341734006",
+    "created_at": "2026-08-20T03:09:08.737023Z",
+    "type": "buy_now",
+    "price": 147,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "16846024497732969435",
+      "online": false,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 1273,
+        "total_avoided_trades": 4,
+        "total_failed_trades": 23,
+        "total_trades": 10448,
+        "total_verified_trades": 10425
+      }
+    },
+    "reference": {
+      "base_price": 107,
+      "float_factor": 1.3439889,
+      "predicted_price": 144,
+      "quantity": 137,
+      "last_updated": "2026-08-20T03:08:14.362829Z"
+    },
+    "item": {
+      "asset_id": "53314576683",
+      "def_index": 64,
+      "paint_index": 123,
+      "paint_seed": 647,
+      "float_value": 0.08011431992053986,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c28MJt_L-OWHViRz-pJt_RnXBa_nBovp3PSm4urdy7Da1UjWJolF-RbshfqldXuMuqxsgGKi45HmXj4iS5IuCxi_a9cBo6oJFLo",
+      "is_stattrak": true,
+      "is_souvenir": false,
+      "rarity": 3,
+      "quality": 9,
+      "market_hash_name": "StatTrak\u2122 R8 Revolver | Tango (Minimal Wear)",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010ABC2AFCEC6011840207B2803300938FAA590ED03408705480050B90A587DCE00",
+      "cs2_screenshot_id": "6743459004734672579",
+      "cs2_screenshot_at": "2026-08-20T03:09:27.350026Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Mil-Spec Grade",
+      "type_name": "Skin",
+      "item_name": "R8 Revolver | Tango",
+      "wear_name": "Minimal Wear",
+      "description": "It has been custom painted with a wooden grip and roses.\\n\\n<i>Will you accept?</i>",
+      "collection": "The Gallery Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010ABC2AFCEC6011840207B2803300938FAA590ED03408705480050B90A587DCE00",
+      "gs_sig": "4b7f28952aa4b4ced1b9"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384962706345001",
+    "created_at": "2026-08-20T03:09:07.154993Z",
+    "type": "buy_now",
+    "price": 999,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/7ea06af962c7cad86a1823560b0e50b7749263a9_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 70,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 1,
+        "total_trades": 1072,
+        "total_verified_trades": 1071
+      },
+      "steam_id": "76561199078571455",
+      "username": "m1"
+    },
+    "reference": {
+      "base_price": 278,
+      "predicted_price": 278,
+      "quantity": 290,
+      "last_updated": "2026-08-20T03:07:11.225476Z"
+    },
+    "item": {
+      "asset_id": "53175326253",
+      "def_index": 17,
+      "paint_index": 1454,
+      "paint_seed": 160,
+      "float_value": 0.002723406068980694,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1W7vH_OJtsMvGRC3SB1OtJt-5lSxa_nBovp3PTy4useSrFPVIoD5smFuAItES8wNTmYePitlDW34pNyH__jCpJvXtj_a9cBjf6ywwE",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 3,
+      "quality": 4,
+      "market_hash_name": "MAC-10 | Arabesque Mosaic (Factory New)",
+      "stickers": [
+        {
+          "stickerId": 11323,
+          "slot": 0,
+          "wear": 0.67,
+          "offset_x": 0.032620072,
+          "offset_y": -0.0012869835,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipVX-TxPOjJfu9itV6M2mZ6hibvKSWDDAkblws-JqSXHmlklx4D7Qyt2ucS-faAdyWMYiF7FesBXrlYX5d7S1pQ40qRU",
+          "name": "Sticker | Lynn Vision (Holo, Ranked) | Cologne 2026",
+          "reference": {
+            "price": 301,
+            "quantity": 23,
+            "updated_at": "2026-08-19T04:58:14.978286Z"
+          }
+        },
+        {
+          "stickerId": 11323,
+          "slot": 3,
+          "wear": 0.69,
+          "offset_x": 0.24077573,
+          "offset_y": -0.0009277463,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipVX-TxPOjJfu9itV6M2mZ6hibvKSWDDAkblws-JqSXHmlklx4D7Qyt2ucS-faAdyWMYiF7FesBXrlYX5d7S1pQ40qRU",
+          "name": "Sticker | Lynn Vision (Holo, Ranked) | Cologne 2026",
+          "reference": {
+            "price": 301,
+            "quantity": 23,
+            "updated_at": "2026-08-19T04:58:14.978286Z"
+          }
+        },
+        {
+          "stickerId": 11323,
+          "slot": 3,
+          "wear": 0.73,
+          "offset_x": 0.020201057,
+          "offset_y": -0.0011765957,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipVX-TxPOjJfu9itV6M2mZ6hibvKSWDDAkblws-JqSXHmlklx4D7Qyt2ucS-faAdyWMYiF7FesBXrlYX5d7S1pQ40qRU",
+          "name": "Sticker | Lynn Vision (Holo, Ranked) | Cologne 2026",
+          "reference": {
+            "price": 301,
+            "quantity": 23,
+            "updated_at": "2026-08-19T04:58:14.978286Z"
+          }
+        }
+      ],
+      "low_rank": 367,
+      "tradable": 0,
+      "cs2_screenshot_id": "3114133474751646527",
+      "cs2_screenshot_at": "2026-08-12T00:04:08.131054Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Mil-Spec Grade",
+      "type_name": "Skin",
+      "item_name": "MAC-10 | Arabesque Mosaic",
+      "wear_name": "Factory New",
+      "description": "It has been custom painted with a moving pattern of Middle Eastern-inspired scenery.\\n\\n<i>Ever-shifting sands</i>",
+      "collection": "The Arabesque Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010ADACFC8BC601181120AE0B2803300438ACF6C9D90340A0016214080010BB581D1F852B3F3DA09C053D4500B0A8BA6214080310BB581DD7A3303F3DEA8D763E45003473BA6214080310BB581D48E13A3F3DB07CA53C4500389ABA2F0AE912",
+      "gs_sig": "80e021d8c5ee14a53f70"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384956142259139",
+    "created_at": "2026-08-20T03:09:05.589998Z",
+    "type": "buy_now",
+    "price": 912,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "18034957553750280009",
+      "online": false,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 99,
+        "total_avoided_trades": 1,
+        "total_failed_trades": 5,
+        "total_trades": 838,
+        "total_verified_trades": 833
+      }
+    },
+    "reference": {
+      "base_price": 814,
+      "predicted_price": 814,
+      "quantity": 1198,
+      "last_updated": "2026-08-20T03:09:05.584325Z"
+    },
+    "item": {
+      "asset_id": "53021618735",
+      "def_index": 5106,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZrl-DZk-fO8YaVjNPjdDDXEk7p35uAxTHDqxRh25DuDzI2sdC7BOwZ1W5BwRe4O4BfsktKxZPSiuVIisGC3vg",
+      "rarity": 4,
+      "market_hash_name": "Osiris | Elite Crew",
+      "stickers": [
+        {
+          "stickerId": 4564,
+          "slot": 1,
+          "icon_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/patches/case01/patch_breakout.b97f12b5417d1e4b6ca3d0698248b40f7f2e76b6.png",
+          "name": "Patch | Breakout",
+          "reference": {
+            "price": 15,
+            "quantity": 277,
+            "updated_at": "2026-08-19T00:51:54.300036Z"
+          }
+        }
+      ],
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010AFE4D6C2C50118F22728043000620A080110D4231D00000000EED85ECF",
+      "is_commodity": true,
+      "type": "agent",
+      "rarity_name": "Exceptional",
+      "type_name": "Agent",
+      "item_name": "Osiris | Elite Crew",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010AFE4D6C2C50118F22728043000620A080110D4231D00000000EED85ECF",
+      "gs_sig": "ed9fc84db3d8f326e996"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384955521502144",
+    "created_at": "2026-08-20T03:09:05.441386Z",
+    "type": "buy_now",
+    "price": 220,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "16846024497732969435",
+      "online": false,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 1273,
+        "total_avoided_trades": 4,
+        "total_failed_trades": 23,
+        "total_trades": 10448,
+        "total_verified_trades": 10425
+      }
+    },
+    "reference": {
+      "base_price": 149,
+      "float_factor": 1.1358647,
+      "predicted_price": 169,
+      "quantity": 355,
+      "last_updated": "2026-08-20T03:08:14.362829Z"
+    },
+    "item": {
+      "asset_id": "53314866611",
+      "def_index": 34,
+      "paint_index": 715,
+      "paint_seed": 264,
+      "float_value": 0.023817922919988632,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f_jdk4uL3V7JoKf6sAm6Xyfo457c6SXDrw0VxsmmAzor6IimePwApApYkQLFY5ES9lYCzZO7j7lTZiZUFk3t71H43DQ",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 3,
+      "quality": 4,
+      "market_hash_name": "MP9 | Capillary (Factory New)",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010B39BC1CEC601182220CB052803300438CEBB8CE60340880232AC0120",
+      "cs2_screenshot_id": "2041355913176434387",
+      "cs2_screenshot_at": "2026-08-20T03:09:26.929709Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Mil-Spec Grade",
+      "type_name": "Skin",
+      "item_name": "MP9 | Capillary",
+      "wear_name": "Factory New",
+      "description": "A custom paint job comprised of intricate teal and coral veins has been applied.\\n\\n<i>857 bpm</i>",
+      "collection": "The Horizon Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010B39BC1CEC601182220CB052803300438CEBB8CE60340880232AC0120",
+      "gs_sig": "8ddf4768b362f3ff9d51"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384954577783732",
+    "created_at": "2026-08-20T03:09:05.216238Z",
+    "type": "buy_now",
+    "price": 90,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/2fb9fcab77731724b53bb53c540aee77e085906c_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": false,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 931,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 2,
+        "total_trades": 796,
+        "total_verified_trades": 794
+      },
+      "steam_id": "76561198175618493",
+      "username": "Musya"
+    },
+    "reference": {
+      "base_price": 13,
+      "float_factor": 1,
+      "predicted_price": 13,
+      "quantity": 989,
+      "last_updated": "2026-08-20T03:07:20.331173Z"
+    },
+    "item": {
+      "asset_id": "52692155907",
+      "def_index": 25,
+      "paint_index": 1381,
+      "paint_seed": 176,
+      "float_value": 0.00558624230325222,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_P2rV71oLPycGViIzNF6ueZhW2fhkEpz5T7dw9-tJ3-Rb1cpD8chR7JZuxXsloe0Ybux4VDY2N1CnH6vkGoXuebNu3Fx",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 2,
+      "quality": 4,
+      "market_hash_name": "XM1014 | XoooM (Factory New)",
+      "tradable": 0,
+      "cs2_screenshot_id": "2914060359015081148",
+      "cs2_screenshot_at": "2026-07-14T19:09:34.076379Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Industrial Grade",
+      "type_name": "Skin",
+      "item_name": "XM1014 | XoooM",
+      "wear_name": "Factory New",
+      "description": "A yellow pattern has been applied and finished with silver accents.\\n\\n<i>ZZZZZAP!</i>",
+      "collection": "The Harlequin Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20001083FCC9A5C401181920E50A2802300438CC99DCDD0340B001685FFC48",
+      "gs_sig": "59cf064b934788b76843"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384943475460930",
+    "created_at": "2026-08-20T03:09:02.569256Z",
+    "type": "buy_now",
+    "price": 424,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "6164085549110800567",
+      "online": true,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 56,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 3,
+        "total_verified_trades": 3
+      }
+    },
+    "reference": {
+      "base_price": 429,
+      "float_factor": 0.9718114,
+      "predicted_price": 417,
+      "quantity": 2572,
+      "last_updated": "2026-08-20T03:07:46.502817Z"
+    },
+    "item": {
+      "asset_id": "52375326553",
+      "def_index": 7,
+      "paint_index": 1207,
+      "paint_seed": 403,
+      "float_value": 0.3634187877178192,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uNztOh8QmexlhtwsW7Qno6vc3ufaAd2WZR4TOcJ4RC-lYezMbngsgCLiolHzimvkGoXuYrtgXO6",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 5,
+      "quality": 4,
+      "market_hash_name": "AK-47 | Searing Rage (Field-Tested)",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010D99EC08EC301180720B709280530043887A4E8F503409303AD1FFAC8",
+      "cs2_screenshot_id": "4393481298940877450",
+      "cs2_screenshot_at": "2026-08-20T03:09:28.427807Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Classified",
+      "type_name": "Skin",
+      "item_name": "AK-47 | Searing Rage",
+      "wear_name": "Field-Tested",
+      "description": "This custom, art brut paint job depicts the scattered thoughts of a once sane member of the Elite Crew.\\n\\n<i>RU$HKILLxDESTROY//NOxFEAR-ATTACKBURN!TERROR</i>",
+      "collection": "The Fever Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010D99EC08EC301180720B709280530043887A4E8F503409303AD1FFAC8",
+      "gs_sig": "96c3efbd0a57d069f077"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384941680298802",
+    "created_at": "2026-08-20T03:09:02.141664Z",
+    "type": "buy_now",
+    "price": 41,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "15466761333132769334",
+      "online": false,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 72,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 23,
+        "total_verified_trades": 23
+      }
+    },
+    "reference": {
+      "base_price": 40,
+      "float_factor": 1,
+      "predicted_price": 40,
+      "quantity": 2054,
+      "last_updated": "2026-08-20T03:07:31.334437Z"
+    },
+    "item": {
+      "asset_id": "53303800633",
+      "def_index": 31,
+      "paint_index": 1183,
+      "paint_seed": 489,
+      "float_value": 0.2809392213821411,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLln4Xl7x1B6ue9V7BiM_GaMWqVxedjva86TXrmxktx4GTRy46rcH6TbgYiD8AkELQC4Rm9kN22YbnqsQXd2dlH02yg2Y8fat_m",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 4,
+      "quality": 4,
+      "market_hash_name": "Zeus x27 | Tosai (Field-Tested)",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010B9E69DC9C601181F209F092804300438C4AEBFF40340E9038B7F1140",
+      "cs2_screenshot_id": "6382479448605159840",
+      "cs2_screenshot_at": "2026-08-20T03:09:29.366955Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Restricted",
+      "type_name": "Skin",
+      "item_name": "Zeus x27 | Tosai",
+      "wear_name": "Field-Tested",
+      "description": "It has been custom painted with a young koi fish, also called a tosai.\\n\\n<i>Wishing you good fortune</i>",
+      "collection": "The Fever Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010B9E69DC9C601181F209F092804300438C4AEBFF40340E9038B7F1140",
+      "gs_sig": "5d5487c7a9d7e0ddba28"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384941332171568",
+    "created_at": "2026-08-20T03:09:02.058053Z",
+    "type": "buy_now",
+    "price": 3,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/1441d9abcd95ea043153da87f57b2241e7cd60a2_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 0,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 0,
+        "total_verified_trades": 0
+      },
+      "steam_id": "76561198722770912",
+      "username": "soso"
+    },
+    "reference": {
+      "base_price": 1,
+      "float_factor": 1,
+      "predicted_price": 1,
+      "quantity": 942,
+      "last_updated": "2026-08-20T03:08:33.428887Z"
+    },
+    "item": {
+      "asset_id": "52276737339",
+      "def_index": 40,
+      "paint_index": 96,
+      "paint_seed": 438,
+      "float_value": 0.3391042947769165,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1I4M2jZ7d-H_2WCm6FzKAutOM6F3y2zU9yt2vUw9ivcS-SaAImXMR3ROQD50G-k4G1ML7m4QKKlcsbmiIZgEQm",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 1,
+      "quality": 4,
+      "market_hash_name": "SSG 08 | Blue Spruce (Field-Tested)",
+      "tradable": 0,
+      "cs2_screenshot_id": "1779286482014826512",
+      "cs2_screenshot_at": "2026-08-18T03:10:51.557717Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Consumer Grade",
+      "type_name": "Skin",
+      "item_name": "SSG 08 | Blue Spruce",
+      "wear_name": "Field-Tested",
+      "description": "It has individual parts spray-painted solid colors in a moss color scheme.",
+      "collection": "The Safehouse Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010BBEABEDFC20118282060280130043894BEB6F50340B603CD90304B",
+      "gs_sig": "00f4606ef2b1510787fd"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384940472339240",
+    "created_at": "2026-08-20T03:09:01.853516Z",
+    "type": "buy_now",
+    "price": 638,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "15466761333132769334",
+      "online": false,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 72,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 23,
+        "total_verified_trades": 23
+      }
+    },
+    "reference": {
+      "base_price": 587,
+      "float_factor": 1.0319844,
+      "predicted_price": 606,
+      "quantity": 2150,
+      "last_updated": "2026-08-20T03:07:31.334437Z"
+    },
+    "item": {
+      "asset_id": "53304049753",
+      "def_index": 10,
+      "paint_index": 1127,
+      "paint_seed": 19,
+      "float_value": 0.3691204786300659,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1c_M2oaalsM8-BD3eZxdFzqeR6cCS2kRQyvnOAnt2qdHyTbQEiWJIkEO5ftkLskN21Ye-3sQGMgo4XxSr-jXkY7npt_a9cBgfDFlKY",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 5,
+      "quality": 4,
+      "market_hash_name": "FAMAS | Rapid Eye Movement (Field-Tested)",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010D980ADC9C601180A20E7082805300438DCFAF3F503401345FB37C4",
+      "cs2_screenshot_id": "3854665697513000902",
+      "cs2_screenshot_at": "2026-08-20T03:09:30.320197Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Classified",
+      "type_name": "Skin",
+      "item_name": "FAMAS | Rapid Eye Movement",
+      "wear_name": "Field-Tested",
+      "description": "It has been custom painted with pink interlocking squares. The squares are painted with lifelike eyes.\\n\\n<i>Frantic are the eyes of the dreamer</i>",
+      "collection": "The Dreams & Nightmares Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010D980ADC9C601180A20E7082805300438DCFAF3F503401345FB37C4",
+      "gs_sig": "3b3b40e2ed35a75a661d"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 1
+  },
+  {
+    "id": "1010384939989994276",
+    "created_at": "2026-08-20T03:09:01.73869Z",
+    "type": "buy_now",
+    "price": 3,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/1441d9abcd95ea043153da87f57b2241e7cd60a2_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 0,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 0,
+        "total_verified_trades": 0
+      },
+      "steam_id": "76561198722770912",
+      "username": "soso"
+    },
+    "reference": {
+      "base_price": 1,
+      "float_factor": 1,
+      "predicted_price": 1,
+      "quantity": 621,
+      "last_updated": "2026-08-20T03:08:33.428887Z"
+    },
+    "item": {
+      "asset_id": "52939652139",
+      "def_index": 34,
+      "paint_index": 1278,
+      "paint_seed": 923,
+      "float_value": 0.11940770596265793,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f9TZk7f67bZtoJPeWHVicyOl-pK84TnrhlEwjtWvQzoqvciiWaAIoA5okQ7ZYsBHpxNDkNbzh5QDbjolC02yg2XGzrD7d",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 1,
+      "quality": 4,
+      "market_hash_name": "MP9 | Buff Blue (Minimal Wear)",
+      "tradable": 0,
+      "cs2_screenshot_id": "6661086834972786718",
+      "cs2_screenshot_at": "2026-08-18T03:10:52.626035Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Consumer Grade",
+      "type_name": "Skin",
+      "item_name": "MP9 | Buff Blue",
+      "wear_name": "Minimal Wear",
+      "description": "It has been spray-painted with a worn, blue pattern.\\n\\n<i>That's gonna leave a mark!</i>",
+      "collection": "The Ascent Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010ABF8CB9BC501182220FE0928013004388798D2EF03409B07BCAE2860",
+      "gs_sig": "1d641c8812175bf1f058"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384939293739806",
+    "created_at": "2026-08-20T03:09:01.572432Z",
+    "type": "buy_now",
+    "price": 93,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "15466761333132769334",
+      "online": false,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 72,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 23,
+        "total_verified_trades": 23
+      }
+    },
+    "reference": {
+      "base_price": 69,
+      "float_factor": 1,
+      "predicted_price": 69,
+      "quantity": 1238,
+      "last_updated": "2026-08-20T03:07:31.334437Z"
+    },
+    "item": {
+      "asset_id": "53283767112",
+      "def_index": 4,
+      "paint_index": 1227,
+      "paint_seed": 76,
+      "float_value": 0.0792069137096405,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1Y-s2pZKtuK8-eAWie_vx3suNgWxa_nBovp3PXyo76Ii_FPAQmDMYiTLYDthm_kdbmZry2slCLjoMQzC7_3y1J7nts_a9cBi_qumx0",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 4,
+      "quality": 4,
+      "market_hash_name": "Glock-18 | Umbral Rabbit (Minimal Wear)",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010C886D7BFC601180420CB092804300438BCEE88ED03404C0C19368F",
+      "cs2_screenshot_id": "7986498501509032152",
+      "cs2_screenshot_at": "2026-08-20T03:09:29.46022Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Restricted",
+      "type_name": "Skin",
+      "item_name": "Glock-18 | Umbral Rabbit",
+      "wear_name": "Minimal Wear",
+      "description": "It has been custom painted with a dreamlike scene of a mystical rabbit hopping before a full moon.\\n\\n<i>Take a leap of faith</i>",
+      "collection": "The Revolution Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010C886D7BFC601180420CB092804300438BCEE88ED03404C0C19368F",
+      "gs_sig": "862dd6953b7671387c6a"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384938656205591",
+    "created_at": "2026-08-20T03:09:01.420124Z",
+    "type": "buy_now",
+    "price": 3,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/1441d9abcd95ea043153da87f57b2241e7cd60a2_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 0,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 0,
+        "total_verified_trades": 0
+      },
+      "steam_id": "76561198722770912",
+      "username": "soso"
+    },
+    "reference": {
+      "base_price": 1,
+      "float_factor": 1,
+      "predicted_price": 1,
+      "quantity": 621,
+      "last_updated": "2026-08-20T03:08:33.428887Z"
+    },
+    "item": {
+      "asset_id": "53127225871",
+      "def_index": 34,
+      "paint_index": 1278,
+      "paint_seed": 957,
+      "float_value": 0.0717969611287117,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f9TZk7f67bZtoJPeWHVicyOl-pK84TnrhlEwjtWvQzoqvciiWaAIoA5okQ7ZYsBHpxNDkNbzh5QDbjolC02yg2XGzrD7d",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 1,
+      "quality": 4,
+      "market_hash_name": "MP9 | Buff Blue (Minimal Wear)",
+      "tradable": 0,
+      "cs2_screenshot_id": "7350864465761644618",
+      "cs2_screenshot_at": "2026-08-18T03:10:53.639277Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Consumer Grade",
+      "type_name": "Skin",
+      "item_name": "MP9 | Buff Blue",
+      "wear_name": "Minimal Wear",
+      "description": "It has been spray-painted with a worn, blue pattern.\\n\\n<i>That's gonna leave a mark!</i>",
+      "collection": "The Ascent Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%2000108FC484F5C501182220FE092801300438C994CCEC0340BD07BBE47A90",
+      "gs_sig": "60eed9a840dc387ce3c5"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384937360165643",
+    "created_at": "2026-08-20T03:09:01.111223Z",
+    "type": "buy_now",
+    "price": 3,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/1441d9abcd95ea043153da87f57b2241e7cd60a2_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 0,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 0,
+        "total_verified_trades": 0
+      },
+      "steam_id": "76561198722770912",
+      "username": "soso"
+    },
+    "reference": {
+      "base_price": 1,
+      "float_factor": 1,
+      "predicted_price": 1,
+      "quantity": 43,
+      "last_updated": "2026-08-20T03:08:33.428887Z"
+    },
+    "item": {
+      "asset_id": "53230077119",
+      "def_index": 40,
+      "paint_index": 1289,
+      "paint_seed": 979,
+      "float_value": 0.39440712332725525,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1T9veRfK1qJeLBMWqVxedjva8xGn21xxl26mTWm9-hdX6eZlQmDpZ4RLNZthG8kNXjMujrtQzY2NgW02yg2VSEbPxY",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 2,
+      "quality": 4,
+      "market_hash_name": "SSG 08 | Tiger Tear (Well-Worn)",
+      "tradable": 0,
+      "cs2_screenshot_id": "9212171309578822178",
+      "cs2_screenshot_at": "2026-08-18T03:10:53.24994Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Industrial Grade",
+      "type_name": "Skin",
+      "item_name": "SSG 08 | Tiger Tear",
+      "wear_name": "Well-Worn",
+      "description": "A forest-colored tiger camo pattern has been applied.\\n\\n<i>Endangered no more</i>",
+      "collection": "The Boreal Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010BF898AA6C601182820890A2802300438BBDFA7F60340D307BB356D18",
+      "gs_sig": "d483665761b72a23e0a2"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384936810711815",
+    "created_at": "2026-08-20T03:09:00.980994Z",
+    "type": "buy_now",
+    "price": 17,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "15466761333132769334",
+      "online": false,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 72,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 23,
+        "total_verified_trades": 23
+      }
+    },
+    "reference": {
+      "base_price": 17,
+      "float_factor": 1,
+      "predicted_price": 17,
+      "quantity": 2142,
+      "last_updated": "2026-08-20T03:07:31.334437Z"
+    },
+    "item": {
+      "asset_id": "53303705566",
+      "def_index": 61,
+      "paint_index": 1186,
+      "paint_seed": 211,
+      "float_value": 0.11370422691106796,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSNeODHViS0_titedmXSq2qho1tjiLpYPwJiPTcFcoCpV2F-Nc4xXpwNPhZeLg5AffiIxNynj2jylP53xp6ugHU6Ig__XJz1aWMWkGKhU",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 3,
+      "quality": 4,
+      "market_hash_name": "USP-S | PC-GRN (Minimal Wear)",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010DEFF97C9C601183D20A2092803300438C3BBA3EF0340D30150FD30E8",
+      "cs2_screenshot_id": "7651888127033031659",
+      "cs2_screenshot_at": "2026-08-20T03:09:30.596632Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Mil-Spec Grade",
+      "type_name": "Skin",
+      "item_name": "USP-S | PC-GRN",
+      "wear_name": "Minimal Wear",
+      "description": "It has been custom painted with a minty green and silver-colored design.\\n\\n<i>The Glass of Fate is half-full</i>",
+      "collection": "The Fever Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010DEFF97C9C601183D20A2092803300438C3BBA3EF0340D30150FD30E8",
+      "gs_sig": "35b1cad9633600fc2e09"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384936059931367",
+    "created_at": "2026-08-20T03:09:00.801236Z",
+    "type": "buy_now",
+    "price": 3,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/1441d9abcd95ea043153da87f57b2241e7cd60a2_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 0,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 0,
+        "total_verified_trades": 0
+      },
+      "steam_id": "76561198722770912",
+      "username": "soso"
+    },
+    "reference": {
+      "base_price": 1,
+      "float_factor": 1,
+      "predicted_price": 1,
+      "quantity": 514,
+      "last_updated": "2026-08-20T03:08:33.428887Z"
+    },
+    "item": {
+      "asset_id": "53230372611",
+      "def_index": 8,
+      "paint_index": 794,
+      "paint_seed": 49,
+      "float_value": 0.10938841849565506,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf7jJk4ve9YJt-IfaWGn6Sze91u95lRi67gVNysGXWwt78dXmVawMnC5t5EeFftkTpk9S1Zu6xswbai4MWyy-rjngb8G81tGCvNXTC",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 1,
+      "quality": 4,
+      "market_hash_name": "AUG | Sweeper (Minimal Wear)",
+      "tradable": 0,
+      "cs2_screenshot_id": "9189390014866882052",
+      "cs2_screenshot_at": "2026-08-18T03:10:54.743308Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Consumer Grade",
+      "type_name": "Skin",
+      "item_name": "AUG | Sweeper",
+      "wear_name": "Minimal Wear",
+      "description": "It has been spray painted with a brown, grey, and red mesh pattern.\\n\\n<i>Clear a path</i>",
+      "collection": "The 2018 Inferno Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010838E9CA6C6011808209A062801300438898E80EF034031FE061751",
+      "gs_sig": "46f42802b4e62fec727b"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384934726142585",
+    "created_at": "2026-08-20T03:09:00.483915Z",
+    "type": "buy_now",
+    "price": 3,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/1441d9abcd95ea043153da87f57b2241e7cd60a2_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 0,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 0,
+        "total_verified_trades": 0
+      },
+      "steam_id": "76561198722770912",
+      "username": "soso"
+    },
+    "reference": {
+      "base_price": 1,
+      "float_factor": 1,
+      "predicted_price": 1,
+      "quantity": 823,
+      "last_updated": "2026-08-20T03:08:33.428887Z"
+    },
+    "item": {
+      "asset_id": "53258769581",
+      "def_index": 16,
+      "paint_index": 1364,
+      "paint_seed": 78,
+      "float_value": 0.23682314157485962,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwipC6s2vard5MvGQGlibz-Fij-w9cCS2kRQyvnOEwt6hcSqSPA8oXJN1ROQPsUXpl4bnZu_rtgbd3t5DyX6tj3hLvyY4_a9cBl-cprie",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 2,
+      "quality": 4,
+      "market_hash_name": "M4A4 | Aeolian Dark (Field-Tested)",
+      "tradable": 0,
+      "cs2_screenshot_id": "8327976717607733620",
+      "cs2_screenshot_at": "2026-08-18T05:49:17.963555Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Industrial Grade",
+      "type_name": "Skin",
+      "item_name": "M4A4 | Aeolian Dark",
+      "wear_name": "Field-Tested",
+      "description": "A grayscale, abstract knot pattern has been applied.\\n\\n<i>Let the wind carry you</i>",
+      "collection": "The Achroma Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010ADA9E1B3C601181020D40A2802300438C483CAF303404EAF767785",
+      "gs_sig": "5c80ef68a6696ccf940b"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384933388159601",
+    "created_at": "2026-08-20T03:09:00.164607Z",
+    "type": "buy_now",
+    "price": 3,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/1441d9abcd95ea043153da87f57b2241e7cd60a2_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 0,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 0,
+        "total_verified_trades": 0
+      },
+      "steam_id": "76561198722770912",
+      "username": "soso"
+    },
+    "reference": {
+      "base_price": 1,
+      "float_factor": 1,
+      "predicted_price": 1,
+      "quantity": 795,
+      "last_updated": "2026-08-20T03:08:33.428887Z"
+    },
+    "item": {
+      "asset_id": "52862035624",
+      "def_index": 13,
+      "paint_index": 1296,
+      "paint_seed": 216,
+      "float_value": 0.2672487199306488,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2n5rp8SNJ0Pq3bZt0JfyfAXCv1P13tt5kSi26gBBptm3VmIuheHvDZwAoCpJ0TOVf4xawl9a2Nbi25AfcgoxMmSj63XlP6jErvbhldfbY2Q",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 2,
+      "quality": 4,
+      "market_hash_name": "Galil AR | Acid Dart (Field-Tested)",
+      "tradable": 0,
+      "cs2_screenshot_id": "2130589097918650906",
+      "cs2_screenshot_at": "2026-08-18T03:10:54.901963Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Industrial Grade",
+      "type_name": "Skin",
+      "item_name": "Galil AR | Acid Dart",
+      "wear_name": "Field-Tested",
+      "description": "A green and yellow hydrographic pattern has been applied\\n\\n<i>Let it rip</i>",
+      "collection": "The Boreal Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010A8CDCAF6C401180D20900A2802300438D3A9A3F40340D8015F6F3918",
+      "gs_sig": "7526f26c63e76157c2b6"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384932092119660",
+    "created_at": "2026-08-20T03:08:59.855968Z",
+    "type": "buy_now",
+    "price": 105,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/1441d9abcd95ea043153da87f57b2241e7cd60a2_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 0,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 0,
+        "total_verified_trades": 0
+      },
+      "steam_id": "76561198722770912",
+      "username": "soso"
+    },
+    "reference": {
+      "base_price": 109,
+      "float_factor": 0.96028435,
+      "predicted_price": 105,
+      "quantity": 166,
+      "last_updated": "2026-08-20T03:08:33.428887Z"
+    },
+    "item": {
+      "asset_id": "52155315972",
+      "def_index": 40,
+      "paint_index": 554,
+      "paint_seed": 22,
+      "float_value": 0.630408525466919,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLijZGwpR1c_M29e6M9eM-SHGqRwuFktd5hSiiljFMisWvVwt-peHySbFRyDcRzFOMI4xexxIa1Nu-27g2IiopGxH_-hiIY8G81tBqK4mMM",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 4,
+      "quality": 4,
+      "market_hash_name": "SSG 08 | Ghost Crusader (Battle-Scarred)",
+      "tradable": 0,
+      "cs2_screenshot_id": "2982955720738838110",
+      "cs2_screenshot_at": "2026-08-16T18:17:08.100577Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Restricted",
+      "type_name": "Skin",
+      "item_name": "SSG 08 | Ghost Crusader",
+      "wear_name": "Battle-Scarred",
+      "description": "It has been painted white and given arctic blue accents.\\n\\n<i>I can never replace what was taken from us... but I can take even more from them - The Phoenix and The Initiate Part 2</i>",
+      "collection": "The Chroma 3 Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20001084EECBA5C201182820AA042804300438F4C485F9034016A943921F",
+      "gs_sig": "27d8085d753cbebe04b4"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384925960047174",
+    "created_at": "2026-08-20T03:08:58.393152Z",
+    "type": "buy_now",
+    "price": 504,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/c19f6a9626a7a47afedfd6a7a4599eed598821f8_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": false,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 55,
+        "total_avoided_trades": 8,
+        "total_failed_trades": 8,
+        "total_trades": 10431,
+        "total_verified_trades": 10423
+      },
+      "steam_id": "76561198877339025",
+      "username": "Like Fire"
+    },
+    "reference": {
+      "base_price": 401,
+      "float_factor": 1.137064,
+      "predicted_price": 456,
+      "quantity": 80,
+      "last_updated": "2026-08-20T03:08:58.387468Z"
+    },
+    "item": {
+      "asset_id": "53142052136",
+      "def_index": 33,
+      "paint_index": 893,
+      "paint_seed": 364,
+      "float_value": 0.08958170562982559,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf_jdk4uL5V7ZoMPyaDWavzedxuPUnGS2wzBglsm6AnNyqJHLBOAdyCZV0ELIN5xC6kNThY-jqslbbid4WyjK-0H0WWbSZ_g",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 4,
+      "quality": 4,
+      "market_hash_name": "MP7 | Neon Ply (Minimal Wear)",
+      "stickers": [
+        {
+          "stickerId": 4511,
+          "slot": 1,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNmpNG-D4ERw8Ljj71uoVhjzoYX06CFQ0PqhZKsjdKTKXTTIwupysuA5Hn-2lxx06m6DnNv9cnuQagNxWZpzRrYDsRW_m8qnab0lw9euTw",
+          "name": "Sticker | Web Stuck (Holo)",
+          "reference": {
+            "price": 104,
+            "quantity": 1204,
+            "updated_at": "2026-08-19T02:55:12.433299Z"
+          }
+        }
+      ],
+      "tradable": 0,
+      "cs2_screenshot_id": "7210200018807904526",
+      "cs2_screenshot_at": "2026-08-08T17:21:01.151559Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Restricted",
+      "type_name": "Skin",
+      "item_name": "MP7 | Neon Ply",
+      "wear_name": "Minimal Wear",
+      "description": "It has been laminated and filled with every neon color imaginable.\\n\\n<i>\\\"Roy G. Biv? Never heard of 'em.\\\"</i>",
+      "collection": "The Shattered Web Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010A8BA8DFCC501182120FD0628043004389DEDDDED0340EC02620A0801109F231D00000000190C177C",
+      "gs_sig": "9873e1c9031af513050f"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384886919465282",
+    "created_at": "2026-08-20T03:08:49.085885Z",
+    "type": "buy_now",
+    "price": 866,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/c19f6a9626a7a47afedfd6a7a4599eed598821f8_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": false,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 55,
+        "total_avoided_trades": 8,
+        "total_failed_trades": 8,
+        "total_trades": 10431,
+        "total_verified_trades": 10423
+      },
+      "steam_id": "76561198877339025",
+      "username": "Like Fire"
+    },
+    "reference": {
+      "base_price": 833,
+      "float_factor": 0.9556939,
+      "predicted_price": 796,
+      "quantity": 54,
+      "last_updated": "2026-08-20T03:08:49.079169Z"
+    },
+    "item": {
+      "asset_id": "53143104833",
+      "def_index": 29,
+      "paint_index": 458,
+      "paint_seed": 178,
+      "float_value": 0.1417352259159088,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c2mcZtvIf2RAWivy_t4t-1scCu_lB4sjDGMnYftb3mTOAMlCcRwQONcs0buxoKxNOy2tgyKjtgXmHj62ypPuHs56-hUBas7uvqAJwYOBrA",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 1,
+      "quality": 4,
+      "market_hash_name": "Sawed-Off | Bamboo Shadow (Minimal Wear)",
+      "tradable": 0,
+      "cs2_screenshot_id": "7949842916369890316",
+      "cs2_screenshot_at": "2026-08-08T18:18:12.547919Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Consumer Grade",
+      "type_name": "Skin",
+      "item_name": "Sawed-Off | Bamboo Shadow",
+      "wear_name": "Minimal Wear",
+      "description": "It has been painted with a hydrographic of brush-painted bamboo.\\n\\n<i>Kotaro lost his son to this gun... and one day he'll use it to stop the man responsible</i>",
+      "collection": "The Rising Sun Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010C1DACDFCC501181D20CA0328013004388AC6C4F00340B20187756318",
+      "gs_sig": "279eb9d922e7b370de1c"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384857374787708",
+    "created_at": "2026-08-20T03:08:42.041846Z",
+    "type": "buy_now",
+    "price": 8,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/f2693f4bb2f13492b70e15845a0d7e8ff4b846c1_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 619,
+        "total_avoided_trades": 16,
+        "total_failed_trades": 17,
+        "total_trades": 5588,
+        "total_verified_trades": 5571
+      },
+      "steam_id": "76561199172326659",
+      "username": "wadu"
+    },
+    "reference": {
+      "base_price": 1,
+      "float_factor": 1,
+      "predicted_price": 1,
+      "quantity": 8387,
+      "last_updated": "2026-08-20T03:05:29.639205Z"
+    },
+    "item": {
+      "asset_id": "53291810187",
+      "def_index": 8,
+      "paint_index": 100,
+      "paint_seed": 251,
+      "float_value": 0.24578939378261566,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf7i1k_OaheqlrMv-dGlidxOp_pewnSnu3whhx52iHztb6JHPBOlRxA5MhQLZfuxiwm921P-yw4QCL2dlEzzK-0H3Orez9yg",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 1,
+      "quality": 4,
+      "market_hash_name": "AUG | Storm (Field-Tested)",
+      "stickers": [
+        {
+          "stickerId": 6613,
+          "slot": 4,
+          "wear": 1,
+          "offset_x": 0.46659884,
+          "offset_y": 0.024137884,
+          "rotation": -63,
+          "icon_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/navi_glitter.2e725fbd4dd4bac102254031693ad247c29b3209.png",
+          "name": "Sticker | Natus Vincere (Glitter) | Paris 2023",
+          "reference": {
+            "price": 11,
+            "quantity": 978,
+            "updated_at": "2026-08-19T00:52:30.036539Z"
+          }
+        },
+        {
+          "stickerId": 6613,
+          "slot": 4,
+          "wear": 1,
+          "offset_x": 0.4295214,
+          "offset_y": 0.09455305,
+          "rotation": -138,
+          "icon_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/navi_glitter.2e725fbd4dd4bac102254031693ad247c29b3209.png",
+          "name": "Sticker | Natus Vincere (Glitter) | Paris 2023",
+          "reference": {
+            "price": 11,
+            "quantity": 978,
+            "updated_at": "2026-08-19T00:52:30.036539Z"
+          }
+        },
+        {
+          "stickerId": 6613,
+          "slot": 4,
+          "wear": 1,
+          "offset_x": 0.35093114,
+          "offset_y": 0.05891803,
+          "rotation": 138,
+          "icon_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/navi_glitter.2e725fbd4dd4bac102254031693ad247c29b3209.png",
+          "name": "Sticker | Natus Vincere (Glitter) | Paris 2023",
+          "reference": {
+            "price": 11,
+            "quantity": 978,
+            "updated_at": "2026-08-19T00:52:30.036539Z"
+          }
+        },
+        {
+          "stickerId": 6613,
+          "slot": 2,
+          "wear": 1,
+          "offset_x": 0.25044313,
+          "offset_y": -0.006705582,
+          "rotation": 33,
+          "icon_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/navi_glitter.2e725fbd4dd4bac102254031693ad247c29b3209.png",
+          "name": "Sticker | Natus Vincere (Glitter) | Paris 2023",
+          "reference": {
+            "price": 11,
+            "quantity": 978,
+            "updated_at": "2026-08-19T00:52:30.036539Z"
+          }
+        },
+        {
+          "stickerId": 6641,
+          "slot": 1,
+          "wear": 0.73,
+          "offset_x": 0.13523652,
+          "offset_y": 0.026590496,
+          "rotation": 24,
+          "icon_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/nip_glitter.273250c926a98c89da2a9be1ee7e0b85854655b4.png",
+          "name": "Sticker | Ninjas in Pyjamas (Glitter) | Paris 2023",
+          "reference": {
+            "price": 2,
+            "quantity": 573,
+            "updated_at": "2026-08-19T13:10:41.016546Z"
+          }
+        }
+      ],
+      "tradable": 0,
+      "cs2_screenshot_id": "2056811321827701592",
+      "cs2_screenshot_at": "2026-08-20T03:09:33.513761Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Consumer Grade",
+      "type_name": "Skin",
+      "item_name": "AUG | Storm",
+      "wear_name": "Field-Tested",
+      "description": "It has individual parts spray-painted solid colors in a stormy color scheme.\\n\\n<i>It will be waiting for you at the monorail</i>",
+      "collection": "The Lake Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%2000108BFBC1C3C601180820642801300438B7E0EEF30340FB016219080410D5331D0000803F2D00007CC23D0BE6EE3E45D0BCC53C6219080410D5331D0000803F2D00000AC33D3BEADB3E4508A5C13D6219080410D5331D0000803F2D00000A433D3FADB33E450854713D6219080210D5331D0000803F2D000004423D153A803E4580BADBBB6219080110F1331D48E13A3F2D0000C0413D717B0A3E4550D4D93CDC7973DE",
+      "gs_sig": "6dba586eb1d26640fe76"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384822457206680",
+    "created_at": "2026-08-20T03:08:33.716118Z",
+    "type": "buy_now",
+    "price": 787,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/b73c661b4c1286030ceec699ecd5d64610fa4c5c_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 280,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 18,
+        "total_trades": 527,
+        "total_verified_trades": 509
+      },
+      "steam_id": "76561198851990104",
+      "username": "Taht_One_Guy_"
+    },
+    "reference": {
+      "base_price": 407,
+      "float_factor": 1.0221096,
+      "predicted_price": 416,
+      "quantity": 2102,
+      "last_updated": "2026-08-20T03:01:29.961841Z"
+    },
+    "item": {
+      "asset_id": "53297455036",
+      "def_index": 7,
+      "paint_index": 1283,
+      "paint_seed": 832,
+      "float_value": 0.0625375509262085,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wjFU6s2jbbBsLPyaDViX0-tzvt47cCW6khUz_W-Ay96seSrBaQcnDJRyTbMDuxTsw9bmNLy0sQPb34JNyn_-jS9N6n51o7FVK4Nkj6A",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 3,
+      "quality": 4,
+      "market_hash_name": "AK-47 | Wintergreen (Factory New)",
+      "tradable": 0,
+      "cs2_screenshot_id": "1524436960111815104",
+      "cs2_screenshot_at": "2026-08-20T03:09:33.535189Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Mil-Spec Grade",
+      "type_name": "Skin",
+      "item_name": "AK-47 | Wintergreen",
+      "wear_name": "Factory New",
+      "description": "The buttstock and handguard have been painted dark brown. The receiver, grip, and barrel have been painted solid green.\\n\\n<i>\\\"Envy is a trait of the weak\\\"</i>",
+      "collection": "The Boreal Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010BCBF9AC6C601180720830A2803300438B0A780EC0340C006AAEBCC30",
+      "gs_sig": "6e2e58508f0a3d87e837"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384821970667411",
+    "created_at": "2026-08-20T03:08:33.60022Z",
+    "type": "buy_now",
+    "price": 419,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/b73c661b4c1286030ceec699ecd5d64610fa4c5c_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 280,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 18,
+        "total_trades": 527,
+        "total_verified_trades": 509
+      },
+      "steam_id": "76561198851990104",
+      "username": "Taht_One_Guy_"
+    },
+    "reference": {
+      "base_price": 358,
+      "predicted_price": 358,
+      "quantity": 438,
+      "last_updated": "2026-08-20T03:01:29.961841Z"
+    },
+    "item": {
+      "asset_id": "52427362490",
+      "def_index": 1209,
+      "sticker_index": 5952,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmyMnTGtRlm_Ijj7lbwTyL3kZ_ssyNduPP2OPA4c_TDXWbClex0sedvGHDgkUQltm6GnN2rJC6QOlciAsFuBbld5Ajszvo",
+      "rarity": 5,
+      "market_hash_name": "Sticker | Showdown (Foil)",
+      "tradable": 0,
+      "is_commodity": true,
+      "type": "sticker",
+      "rarity_name": "Exotic",
+      "type_name": "Sticker",
+      "item_name": "Showdown (Foil)",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010BAA1A8A7C30118B909280530006205080010C02E63B94FF0",
+      "gs_sig": "c4775071e037ea8ee343"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384821479933841",
+    "created_at": "2026-08-20T03:08:33.483395Z",
+    "type": "buy_now",
+    "price": 372,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/b73c661b4c1286030ceec699ecd5d64610fa4c5c_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 280,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 18,
+        "total_trades": 527,
+        "total_verified_trades": 509
+      },
+      "steam_id": "76561198851990104",
+      "username": "Taht_One_Guy_"
+    },
+    "reference": {
+      "base_price": 343,
+      "float_factor": 1.0171527,
+      "predicted_price": 349,
+      "quantity": 693,
+      "last_updated": "2026-08-20T03:01:29.961841Z"
+    },
+    "item": {
+      "asset_id": "53298495840",
+      "def_index": 64,
+      "paint_index": 1232,
+      "paint_seed": 286,
+      "float_value": 0.0685659646987915,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c2pe5t_eM-RD2mRz-9JvOhuRz39kU4msjzdmd6peXKTOFd2DcchEOEP40btlt3lN7iz5FbeiNpFzi_83zQJsHgWY2btRg",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 4,
+      "quality": 4,
+      "market_hash_name": "R8 Revolver | Banana Cannon (Factory New)",
+      "tradable": 0,
+      "cs2_screenshot_id": "4468095736338746158",
+      "cs2_screenshot_at": "2026-08-20T03:09:34.940458Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Restricted",
+      "type_name": "Skin",
+      "item_name": "R8 Revolver | Banana Cannon",
+      "wear_name": "Factory New",
+      "description": "It has been custom painted to resemble a very ripe banana.\\n\\n<i>Catch them slipping</i>",
+      "collection": "The Revolution Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010E082DAC6C601184020D0092804300438D0D8B1EC03409E0282962F48",
+      "gs_sig": "c7d1cf5b8ceeace5b71c"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384820989200271",
+    "created_at": "2026-08-20T03:08:33.366415Z",
+    "type": "buy_now",
+    "price": 567,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/b73c661b4c1286030ceec699ecd5d64610fa4c5c_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 280,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 18,
+        "total_trades": 527,
+        "total_verified_trades": 509
+      },
+      "steam_id": "76561198851990104",
+      "username": "Taht_One_Guy_"
+    },
+    "reference": {
+      "base_price": 142,
+      "predicted_price": 142,
+      "quantity": 172,
+      "last_updated": "2026-08-20T03:01:29.961841Z"
+    },
+    "item": {
+      "asset_id": "52809126239",
+      "def_index": 1209,
+      "sticker_index": 11225,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cj-61rsQA7i0Z7v8S1k_fOqYatqMvGDBinFwup057ZqS33hkU9xsTuEmNaseXOWaFMiW8FyQOYC4EW8k9XlNOiw-UWA3Pr-fJnb",
+      "rarity": 4,
+      "market_hash_name": "Sticker | Radiograph (Holo)",
+      "tradable": 0,
+      "is_commodity": true,
+      "type": "sticker",
+      "rarity_name": "Remarkable",
+      "type_name": "Sticker",
+      "item_name": "Radiograph (Holo)",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010DFA2ADDDC40118B909280430006205080010D957D0A30294",
+      "gs_sig": "474649fb9b9d30b72d7c"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384820511049612",
+    "created_at": "2026-08-20T03:08:33.252674Z",
+    "type": "buy_now",
+    "price": 58,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/b73c661b4c1286030ceec699ecd5d64610fa4c5c_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 280,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 18,
+        "total_trades": 527,
+        "total_verified_trades": 509
+      },
+      "steam_id": "76561198851990104",
+      "username": "Taht_One_Guy_"
+    },
+    "reference": {
+      "base_price": 47,
+      "predicted_price": 47,
+      "quantity": 991,
+      "last_updated": "2026-08-20T03:01:29.961841Z"
+    },
+    "item": {
+      "asset_id": "53298208708",
+      "def_index": 1355,
+      "keychain_index": 2,
+      "keychain_pattern": 96299,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764RbsQiL8l4Xz9Cxc4_ugY5tvIf6SAGbelbkg5eM6SyywlEVx42mBztj9c36RPAV0XJQkE7ECtEW6loXhP-q07hue1dzjgFlFEA",
+      "rarity": 4,
+      "market_hash_name": "Charm | That's Bananas",
+      "tradable": 0,
+      "cs2_screenshot_id": "3683246250633418837",
+      "cs2_screenshot_at": "2026-08-20T03:09:35.938546Z",
+      "is_commodity": true,
+      "type": "charm",
+      "rarity_name": "Remarkable",
+      "type_name": "Charm",
+      "item_name": "That's Bananas",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010C4BFC8C6C60118CB0A28043000A201080800100250ABF0058041C5C0",
+      "gs_sig": "bc649a8da36abd896b1f"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384819445696388",
+    "created_at": "2026-08-20T03:08:32.998565Z",
+    "type": "buy_now",
+    "price": 26,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/b73c661b4c1286030ceec699ecd5d64610fa4c5c_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 280,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 18,
+        "total_trades": 527,
+        "total_verified_trades": 509
+      },
+      "steam_id": "76561198851990104",
+      "username": "Taht_One_Guy_"
+    },
+    "reference": {
+      "base_price": 22,
+      "predicted_price": 22,
+      "quantity": 91,
+      "last_updated": "2026-08-20T03:01:29.961841Z"
+    },
+    "item": {
+      "asset_id": "53298134981",
+      "def_index": 1209,
+      "sticker_index": 4895,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7dWkuAioRAT0oZXv8zZa7OaRYKthL77AVmHJwLsi4eQ9Hni2kEkjsm-Eyo6qI32XaVUkCsciQuICthbuldGxKaq8sIaoezAj",
+      "rarity": 4,
+      "market_hash_name": "Sticker | Eye Contact (Holo)",
+      "tradable": 0,
+      "is_commodity": true,
+      "type": "sticker",
+      "rarity_name": "Remarkable",
+      "type_name": "Sticker",
+      "item_name": "Eye Contact (Holo)",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010C5FFC3C6C60118B9092804300062050800109F26A5BE219C",
+      "gs_sig": "c8528873be15c6de8522"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384818963351425",
+    "created_at": "2026-08-20T03:08:32.883956Z",
+    "type": "buy_now",
+    "price": 17,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/b73c661b4c1286030ceec699ecd5d64610fa4c5c_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 280,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 18,
+        "total_trades": 527,
+        "total_verified_trades": 509
+      },
+      "steam_id": "76561198851990104",
+      "username": "Taht_One_Guy_"
+    },
+    "reference": {
+      "base_price": 17,
+      "float_factor": 1,
+      "predicted_price": 17,
+      "quantity": 1532,
+      "last_updated": "2026-08-20T03:01:29.961841Z"
+    },
+    "item": {
+      "asset_id": "53298781516",
+      "def_index": 10,
+      "paint_index": 1202,
+      "paint_seed": 45,
+      "float_value": 0.34344300627708435,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1c_M26eqVkLs-QD3Wvx-97sfJWQiy3nAgq_W7cwtetIi7BZgclA5Z2Q7YKukSxkYa0Y7nh7lePg49CziX7hyNJvHx1o7FVVwv80lc",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 3,
+      "quality": 4,
+      "market_hash_name": "FAMAS | 2A2F (Field-Tested)",
+      "tradable": 0,
+      "cs2_screenshot_id": "8051677962476164722",
+      "cs2_screenshot_at": "2026-08-20T03:09:36.114764Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Mil-Spec Grade",
+      "type_name": "Skin",
+      "item_name": "FAMAS | 2A2F",
+      "wear_name": "Field-Tested",
+      "description": "It has been custom painted with a tread plate pattern and \\\"2A2F\\\" on the handguard.\\n\\n<i>\\\"2A2F\u2014reliable shipping in an unreliable world\\\"</i>",
+      "collection": "The Train 2025 Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010CCBAEBC6C601180A20B2092803300438C3AFBFF503402D38DB4835",
+      "gs_sig": "cb77321e49e07cd452ac"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384782888142473",
+    "created_at": "2026-08-20T03:08:24.282784Z",
+    "type": "buy_now",
+    "price": 424,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "6164085549110800567",
+      "online": true,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 56,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 3,
+        "total_verified_trades": 3
+      }
+    },
+    "reference": {
+      "base_price": 429,
+      "float_factor": 0.97701013,
+      "predicted_price": 419,
+      "quantity": 2572,
+      "last_updated": "2026-08-20T03:07:46.502817Z"
+    },
+    "item": {
+      "asset_id": "52547975908",
+      "def_index": 7,
+      "paint_index": 1207,
+      "paint_seed": 818,
+      "float_value": 0.2746391296386719,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRbbx9LP-AB3GV_uNztOh8QmexlhtwsW7Qno6vc3ufaAd2WZR4TOcJ4RC-lYezMbngsgCLiolHzimvkGoXuYrtgXO6",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 5,
+      "quality": 4,
+      "market_hash_name": "AK-47 | Searing Rage (Field-Tested)",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010E4F5E9E0C301180720B709280530043880BBB2F40340B206D3650740",
+      "cs2_screenshot_id": "5557815803978978680",
+      "cs2_screenshot_at": "2026-08-20T03:09:35.26782Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Classified",
+      "type_name": "Skin",
+      "item_name": "AK-47 | Searing Rage",
+      "wear_name": "Field-Tested",
+      "description": "This custom, art brut paint job depicts the scattered thoughts of a once sane member of the Elite Crew.\\n\\n<i>RU$HKILLxDESTROY//NOxFEAR-ATTACKBURN!TERROR</i>",
+      "collection": "The Fever Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010E4F5E9E0C301180720B709280530043880BBB2F40340B206D3650740",
+      "gs_sig": "5704cd02a8a529eb0bf8"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384773488707140",
+    "created_at": "2026-08-20T03:08:22.041395Z",
+    "type": "buy_now",
+    "price": 2400,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/30a8f63807321465c9724f9c1bbb9985dccd4c9c_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": false,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 80,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 32,
+        "total_verified_trades": 32
+      },
+      "steam_id": "76561199789316130",
+      "username": "pink10s"
+    },
+    "reference": {
+      "base_price": 1461,
+      "float_factor": 1.2047236,
+      "predicted_price": 1768,
+      "keychain_price": 8,
+      "quantity": 374,
+      "last_updated": "2026-08-20T03:08:11.760749Z"
+    },
+    "item": {
+      "asset_id": "52165222425",
+      "def_index": 16,
+      "paint_index": 874,
+      "paint_seed": 777,
+      "float_value": 0.08622221648693085,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFU4M2-Z6h0M_-GHlidle8ij-1gSCGn2x904j7dntz4eX6UOlcmCZFwQLIL4Ri7ktexMePg4Q3ZiIIQmyv6inxXrnE8bylol6Q",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 4,
+      "quality": 4,
+      "market_hash_name": "M4A4 | Polysoup (Minimal Wear)",
+      "stickers": [
+        {
+          "stickerId": 7943,
+          "slot": 1,
+          "offset_x": -0.072436064,
+          "offset_y": -0.016485214,
+          "icon_url": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/sha2024/spir_gold.e600cd14f51f1ebd13920e601b43edcf7abe293c.png",
+          "name": "Sticker | Team Spirit (Gold) | Shanghai 2024",
+          "reference": {
+            "price": 618,
+            "quantity": 170,
+            "updated_at": "2026-08-19T06:00:06.57815Z"
+          }
+        }
+      ],
+      "keychains": [
+        {
+          "stickerId": 54,
+          "slot": 0,
+          "offset_x": 15.267712,
+          "offset_y": 0.54465294,
+          "offset_z": 13.862834,
+          "pattern": 40085,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764WbkThD8i5jp6Ttkv6PhY6dSLfmAHW6exuJ_vupWXCC_mQQivziVko73NWWWPQZ1XJYjQ7ICshS5wYbvNbzm5Q3Z2d9FnC_9jihJ53pvtuZTAPIs5OSJ2HrqJ1iJ",
+          "name": "Charm | Lil' Tusk",
+          "reference": {
+            "price": 9,
+            "quantity": 519,
+            "updated_at": "2026-08-19T02:54:05.923505Z"
+          }
+        }
+      ],
+      "tradable": 0,
+      "cs2_screenshot_id": "2476476412298260878",
+      "cs2_screenshot_at": "2026-08-20T03:09:41.827645Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Restricted",
+      "type_name": "Skin",
+      "item_name": "M4A4 | Polysoup",
+      "wear_name": "Minimal Wear",
+      "description": "It has been custom painted with multicolored crystals and finished with pearlescent accents.\\n\\n<i>Don't stew on it</i>",
+      "collection": "The Graphic Design Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20001099C0A8AAC201181020EA062804300438C6AAC2ED034089066214080110873E1D000000003D5C5994BD45000C87BCA2011C080010361D000000003D8C48744145606E0B3F4D2BCE5D415095B902044F4886",
+      "gs_sig": "2a046f5ce63929f6b688"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384754983437726",
+    "created_at": "2026-08-20T03:08:17.629347Z",
+    "type": "buy_now",
+    "price": 499,
+    "state": "listed",
+    "seller": {
+      "avatar": "https://avatars.steamstatic.com/7ea06af962c7cad86a1823560b0e50b7749263a9_full.jpg",
+      "away": false,
+      "flags": 48,
+      "online": true,
+      "stall_public": true,
+      "statistics": {
+        "median_trade_time": 70,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 1,
+        "total_trades": 1072,
+        "total_verified_trades": 1071
+      },
+      "steam_id": "76561199078571455",
+      "username": "m1"
+    },
+    "reference": {
+      "base_price": 150,
+      "float_factor": 1.2236279,
+      "predicted_price": 184,
+      "quantity": 2281,
+      "last_updated": "2026-08-20T03:07:11.225476Z"
+    },
+    "item": {
+      "asset_id": "52672999695",
+      "def_index": 33,
+      "paint_index": 1436,
+      "paint_seed": 613,
+      "float_value": 0.09857375174760818,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf8DIM0POjaqF_LPmdC1icyOl-pK9rTCzlzBx14m-AyNupdXqfaQElXsN0QLICsxSxw4HjZuzm4gePjY5C02yg2Z3LgsMw",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 4,
+      "quality": 4,
+      "market_hash_name": "MP7 | Amberline (Minimal Wear)",
+      "stickers": [
+        {
+          "stickerId": 11206,
+          "slot": 0,
+          "offset_x": -0.082904935,
+          "offset_y": -0.041375905,
+          "icon_url": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_jackass.f08c17372964152d33c811ace4113daa08b947e9.png",
+          "name": "Sticker | Jackass",
+          "reference": {
+            "price": 44,
+            "quantity": 57,
+            "updated_at": "2026-08-19T01:53:40.608056Z"
+          }
+        }
+      ],
+      "tradable": 0,
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Restricted",
+      "type_name": "Skin",
+      "item_name": "MP7 | Amberline",
+      "wear_name": "Minimal Wear",
+      "description": "It has been spray painted with diagonal orange and white bands.\\n\\n<i>A brand in-hand</i>",
+      "collection": "The Dead Hand Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%2000108FE2B89CC4011821209C0B280430043889C2A7EE0340E5046214080010C6571D000000003D10CAA9BD45C87929BD3692CADC",
+      "gs_sig": "3641cf65db7f904624f6"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384753230218640",
+    "created_at": "2026-08-20T03:08:17.211446Z",
+    "type": "buy_now",
+    "price": 5600,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "1033010350440277908",
+      "online": true,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 63,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 65,
+        "total_verified_trades": 65
+      }
+    },
+    "reference": {
+      "base_price": 5360,
+      "float_factor": 1.0100633,
+      "predicted_price": 5414,
+      "quantity": 205,
+      "last_updated": "2026-08-20T03:07:37.132167Z"
+    },
+    "item": {
+      "asset_id": "53142361008",
+      "def_index": 509,
+      "paint_index": 579,
+      "paint_seed": 17,
+      "float_value": 0.17254331707954407,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1P7vG6YadsLM-bF1ifwut3vt5iQSC1kCJ-4wKIn4vwNCaJPVV2CJN2TbVbsRjpxoGzZezk5A2Ni4pAyi_6iHtN6nlj4edTBKF0-rqX0V-O5oiPkg",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 6,
+      "quality": 3,
+      "market_hash_name": "\u2605 Huntsman Knife | Bright Water (Field-Tested)",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010B0A7A0FCC50118FD0320C3042806300338B2DEC2F10340114740F748",
+      "cs2_screenshot_id": "4730764733596022721",
+      "cs2_screenshot_at": "2026-08-17T16:59:27.735339Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Covert",
+      "type_name": "Skin",
+      "item_name": "\u2605 Huntsman Knife | Bright Water",
+      "wear_name": "Field-Tested",
+      "description": "It has been painted using a blue camo hydrographic.",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010B0A7A0FCC50118FD0320C3042806300338B2DEC2F10340114740F748",
+      "gs_sig": "0dff45b870e0aadb51ff"
+    },
+    "is_seller": false,
+    "min_offer_price": 5152,
+    "max_offer_discount": 800,
+    "is_watchlisted": false,
+    "watchers": 1
+  },
+  {
+    "id": "1010384744124384601",
+    "created_at": "2026-08-20T03:08:15.040056Z",
+    "type": "buy_now",
+    "price": 370,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "1498759906859630578",
+      "online": true,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 39,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 15,
+        "total_verified_trades": 15
+      }
+    },
+    "reference": {
+      "base_price": 315,
+      "float_factor": 1.0916798,
+      "predicted_price": 358,
+      "keychain_price": 14,
+      "quantity": 4121,
+      "last_updated": "2026-08-20T03:07:59.191498Z"
+    },
+    "item": {
+      "asset_id": "53417232756",
+      "def_index": 9,
+      "paint_index": 1222,
+      "paint_seed": 194,
+      "float_value": 0.21508626639842987,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf-jFk7uW-V6hkLfKcMXSewOVzj-xsSyCmmFN0tzvcnor9IC7CP1BxDpVyEO9Zt0Swx4bvP-7ktQfZj4kTn3n2hi8b8G81tHGU9aNy",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 5,
+      "quality": 4,
+      "market_hash_name": "AWP | Duality (Field-Tested)",
+      "stickers": [
+        {
+          "stickerId": 6689,
+          "slot": 0,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j55Uz9fhr9l4L0-DAVvaKqMf1scaDKDGTIkrp35uVoTirrzUtw52TVzo6sJX-VOAN0Xpd2QPlK7EdDcSa6Ug",
+          "name": "Sticker | MOUZ (Glitter) | Paris 2023",
+          "reference": {
+            "price": 2,
+            "quantity": 2863,
+            "updated_at": "2026-08-19T04:58:19.736288Z"
+          }
+        },
+        {
+          "stickerId": 7886,
+          "slot": 3,
+          "wear": 1,
+          "offset_x": 0.13637766,
+          "offset_y": -0.001432091,
+          "rotation": -45,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cjx5lzqRBPln5rf_jBa6ebheKV9JeKsCGuRzOtl_rZvTnDlzUh1t2zTydmtc37EbQYhDccmQOYL4RHrm9bvMe-w4QSKitpbjXKpHDUZ40c",
+          "name": "Sticker | Hot Rod Heat",
+          "reference": {
+            "price": 5,
+            "quantity": 3405,
+            "updated_at": "2026-08-19T02:54:55.080764Z"
+          }
+        }
+      ],
+      "keychains": [
+        {
+          "stickerId": 12,
+          "slot": 0,
+          "offset_x": 4.1964564,
+          "offset_y": 0.5917999,
+          "offset_z": 8.850134,
+          "pattern": 62722,
+          "icon_url": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764RbsQiL8l4Xz9Cxc4_ugY5t-If2sHWac1fc44LRqTnywxR4k5mTVzYn6cy7GOlAlA8NzRLILskW9wIbuP7ni5Qze2ZUFk3v2JiibwQ",
+          "name": "Charm | Pinch O' Salt",
+          "reference": {
+            "price": 15,
+            "quantity": 4936,
+            "updated_at": "2026-08-19T01:52:50.681353Z"
+          }
+        }
+      ],
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010F492A9FFC601180920C609280530043893FFF0F20340C201620A080010A1341D000000006219080310CE3D1D0000803F2D000034C23D96A60B3E4500B5BBBAA2011C0800100C1D000000003D5F498640453380173F4D269A0D415082EA0398D3F99E",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Classified",
+      "type_name": "Skin",
+      "item_name": "AWP | Duality",
+      "wear_name": "Field-Tested",
+      "description": "It has been custom painted with a snake on either side. One snake is red and the other is gold.\\n\\n<i>There's two sides to every story</i>",
+      "collection": "The Revolution Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010F492A9FFC601180920C609280530043893FFF0F20340C201620A080010A1341D000000006219080310CE3D1D0000803F2D000034C23D96A60B3E4500B5BBBAA2011C0800100C1D000000003D5F498640453380173F4D269A0D415082EA0398D3F99E",
+      "gs_sig": "0d9f42a76f47d72984c6"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  },
+  {
+    "id": "1010384742442468687",
+    "created_at": "2026-08-20T03:08:14.639129Z",
+    "type": "buy_now",
+    "price": 607,
+    "state": "listed",
+    "seller": {
+      "away": false,
+      "flags": 48,
+      "obfuscated_id": "6164085549110800567",
+      "online": true,
+      "stall_public": false,
+      "statistics": {
+        "median_trade_time": 56,
+        "total_avoided_trades": 0,
+        "total_failed_trades": 0,
+        "total_trades": 3,
+        "total_verified_trades": 3
+      }
+    },
+    "reference": {
+      "base_price": 590,
+      "float_factor": 1.0282912,
+      "predicted_price": 607,
+      "quantity": 743,
+      "last_updated": "2026-08-20T03:07:46.502817Z"
+    },
+    "item": {
+      "asset_id": "52547582658",
+      "def_index": 10,
+      "paint_index": 1127,
+      "paint_seed": 6,
+      "float_value": 0.3883213400840759,
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1c_M2oaalsM8-BD3eZxdFzqeR6cCS2kRQyvnOAnt2qdHyTbQEiWJIkEO5ftkLskN21Ye-3sQGMgo4XxSr-jXkY7npt_a9cBgfDFlKY",
+      "is_stattrak": false,
+      "is_souvenir": false,
+      "rarity": 5,
+      "quality": 4,
+      "market_hash_name": "FAMAS | Rapid Eye Movement (Well-Worn)",
+      "tradable": 0,
+      "inspect_link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010C2F5D1E0C301180A20E70828053004388EA49BF60340063C4BC1A3",
+      "cs2_screenshot_id": "5570502525001945800",
+      "cs2_screenshot_at": "2026-08-20T03:09:38.282386Z",
+      "is_commodity": false,
+      "type": "skin",
+      "rarity_name": "Classified",
+      "type_name": "Skin",
+      "item_name": "FAMAS | Rapid Eye Movement",
+      "wear_name": "Well-Worn",
+      "description": "It has been custom painted with pink interlocking squares. The squares are painted with lifelike eyes.\\n\\n<i>Frantic are the eyes of the dreamer</i>",
+      "collection": "The Dreams & Nightmares Collection",
+      "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200010C2F5D1E0C301180A20E70828053004388EA49BF60340063C4BC1A3",
+      "gs_sig": "126fcb9dc38a1bd0039f"
+    },
+    "is_seller": false,
+    "is_watchlisted": false,
+    "watchers": 0
+  }
+]
