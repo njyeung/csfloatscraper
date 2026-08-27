@@ -19,7 +19,7 @@ CREATE TABLE items (
     type             TEXT    NOT NULL,   -- skin | sticker | container | agent | music_kit | charm
 
     quality          SMALLINT,
-    paint_index      INTEGER,            -- 180 for bloodsport
+    paint_index      INTEGER,
     wear_name        TEXT,               -- Factory New .. Battle-Scarred
     collection       TEXT,
     is_stattrak      BOOLEAN,

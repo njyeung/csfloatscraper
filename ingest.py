@@ -1,4 +1,6 @@
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 import json
 import time
 import os
@@ -38,12 +40,15 @@ class Listing:
         self.keychain_index =  dict["item"].get("keychain_index", None)
 
         reference = dict.get("reference") or {}
-        self.has_reference_block = bool(reference)
 
         self.base_price = reference.get("base_price", None)
         self.predicted_price = reference.get("predicted_price", None)
         self.last_updated = reference.get("last_updated", None)
         self.quantity = reference.get("quantity", None) # num of this item listed on CSFloat rn
+
+        self.has_reference_block = (self.base_price is not None
+                                    and self.quantity is not None
+                                    and self.last_updated is not None)
 
     def __repr__(self):
         return f"""LISTING FOR {self.market_hash_name}:
@@ -157,8 +162,20 @@ class API:
         self.session = requests.Session()
         self.session.headers["Authorization"] = os.environ.get("CSFLOAT_API_KEY")
 
+        retry = Retry(
+            total = 3,
+            backoff_factor = 1, # sleeps 1s, 2s, 4s
+            status_forcelist = [500, 502, 503, 504],
+            allowed_methods = ["GET"],
+        )
+        self.session.mount("https://", HTTPAdapter(max_retries = retry))
+
     def get(self):
-        r = self.session.get(self.API, params = {"sort_by": "most_recent"})
+        r = self.session.get(
+            self.API,
+            params = {"sort_by": "most_recent"},
+            timeout = (5, 30),
+        )
         status = r.status_code
         body = r.json()
         return (status, body)
@@ -167,25 +184,26 @@ def main():
     api = API()
     db = DB()
     while True:
-        status, body = api.get()
-        if status != 200:
-            print(f"api returned {status}, backing off")
+        try:
+            status, body = api.get()
+            if status != 200:
+                print(f"api returned {status}, backing off")
+                time.sleep(20)
+                continue
+
+            for o in body["data"]:
+                listing = Listing(o)
+                print(listing)
+                db.insert_listing(listing)
+
+            time.sleep(20)
+
+        except Exception:
+            print(f"api request iteration failed, skipping a cycle")
             time.sleep(20)
             continue
 
-        for o in body["data"]:
-            # TODO: Remove the try except block when api schema has been fully discovered
-            try:
-                listing = Listing(o)
-            except (KeyError, TypeError) as e:
-                print(f"could not parse listing: missing {e}")
-                print(json.dumps(o, indent = 2))
-                sys.exit(1)
-
-            print(listing)
-            db.insert_listing(listing)
-
-        time.sleep(20)
+        
 
 if __name__ == "__main__":
     main()
