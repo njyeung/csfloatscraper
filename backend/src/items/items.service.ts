@@ -1,10 +1,8 @@
 import { Injectable, NotFoundException } from '@nestjs/common';
-import {
-  ItemsRepository,
-  Item,
-  Listing,
-  ItemReference,
-} from './items.repository';
+import { ItemsRepository } from './items.repository';
+import { Item } from './dto/item.dto';
+import { Listing } from './dto/listing.dto';
+import { ItemReference } from './dto/item-reference.dto';
 
 @Injectable()
 export class ItemsService {

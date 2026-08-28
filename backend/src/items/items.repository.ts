@@ -1,6 +1,9 @@
 import { Inject, Injectable } from '@nestjs/common';
 import { Pool } from 'pg';
 import { PG_POOL } from '../database/database.module';
+import { Item } from './dto/item.dto';
+import { Listing } from './dto/listing.dto';
+import { ItemReference } from './dto/item-reference.dto';
 
 interface ItemRow {
   market_hash_name: string;
@@ -24,28 +27,6 @@ interface ListingRow {
   predicted_price: number | null;
 }
 
-export interface Item {
-  marketHashName: string;
-  itemName: string;
-  type: string;
-  rarityName: string;
-  wearName: string | null;
-  collection: string | null;
-  isStatTrak: boolean | null;
-  basePrice: number | null;
-  quantity: number | null;
-}
-
-export interface Listing {
-  id: string;
-  createdAt: Date;
-  listingType: string;
-  price: number | null;
-  floatValue: number | null;
-  paintSeed: number | null;
-  predictedPrice: number | null;
-}
-
 // base_price and quantity are NOT NULL in item_reference, so unlike the joined
 // columns on ItemRow these are never null.
 interface ItemReferenceRow {
@@ -53,13 +34,6 @@ interface ItemReferenceRow {
   base_price: number;
   quantity: number;
   observed_at: Date;
-}
-
-export interface ItemReference {
-  lastUpdated: Date;
-  basePrice: number;
-  quantity: number;
-  observedAt: Date;
 }
 
 function toItem(row: ItemRow): Item {

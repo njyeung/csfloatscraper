@@ -6,6 +6,9 @@ import {
   Query,
 } from '@nestjs/common';
 import { ItemsService } from './items.service';
+import { Item } from './dto/item.dto';
+import { Listing } from './dto/listing.dto';
+import { ItemReference } from './dto/item-reference.dto';
 
 @Controller('items')
 export class ItemsController {
@@ -15,8 +18,8 @@ export class ItemsController {
   search(
     @Query('type') type?: string,
     @Query('search') search?: string,
-    @Query('limit', new DefaultValuePipe(20), ParseIntPipe) limit = 20,
-  ) {
+    @Query('limit', new DefaultValuePipe(20), ParseIntPipe) limit: number = 20,
+  ): Promise<Item[]> {
     return this.items.search({ type, search, limit: clamp(limit) });
   }
 
@@ -25,16 +28,16 @@ export class ItemsController {
   @Get('listings')
   listings(
     @Query('name') name: string,
-    @Query('limit', new DefaultValuePipe(20), ParseIntPipe) limit = 20,
-  ) {
+    @Query('limit', new DefaultValuePipe(20), ParseIntPipe) limit: number = 20,
+  ): Promise<Listing[]> {
     return this.items.recentListings(name, clamp(limit));
   }
 
   @Get('reference')
   reference(
     @Query('name') name: string,
-    @Query('limit', new DefaultValuePipe(20), ParseIntPipe) limit = 20,
-  ) {
+    @Query('limit', new DefaultValuePipe(20), ParseIntPipe) limit: number = 20,
+  ): Promise<ItemReference[]> {
     return this.items.referenceHistory(name, clamp(limit));
   }
 }
