@@ -1,0 +1,40 @@
+import { Injectable, NotFoundException } from '@nestjs/common';
+import {
+  ItemsRepository,
+  Item,
+  Listing,
+  ItemReference,
+} from './items.repository';
+
+@Injectable()
+export class ItemsService {
+  constructor(private readonly items: ItemsRepository) {}
+
+  search(params: {
+    type?: string;
+    search?: string;
+    limit: number;
+  }): Promise<Item[]> {
+    return this.items.search(params);
+  }
+
+  async recentListings(
+    marketHashName: string,
+    limit: number,
+  ): Promise<Listing[]> {
+    if (!(await this.items.exists(marketHashName))) {
+      throw new NotFoundException(`No item named "${marketHashName}"`);
+    }
+    return this.items.recentListings(marketHashName, limit);
+  }
+
+  async referenceHistory(
+    marketHashName: string,
+    limit: number,
+  ): Promise<ItemReference[]> {
+    if (!(await this.items.exists(marketHashName))) {
+      throw new NotFoundException(`No item named "${marketHashName}"`);
+    }
+    return this.items.referenceHistory(marketHashName, limit);
+  }
+}
