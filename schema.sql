@@ -1,7 +1,7 @@
 -- cs2market schema
 --
 -- Three tables:
---   items           one row per market_hash_name; the attributes that never change
+--   items           one row per (market_hash_name, paint_index); the attributes that never change
 --   item_reference  CSFloat's moving base price per item, appended only when it moves
 --   listings        one row per listing id, immutable once written
 --
@@ -10,7 +10,8 @@
 BEGIN;
 
 CREATE TABLE items (
-    market_hash_name TEXT PRIMARY KEY,
+    market_hash_name TEXT    NOT NULL,
+    paint_index      INTEGER NOT NULL DEFAULT -1, -- -1 means "not a skin"
 
     def_index        INTEGER NOT NULL,   -- 7 for AK
     item_name        TEXT    NOT NULL,
@@ -19,22 +20,25 @@ CREATE TABLE items (
     type             TEXT    NOT NULL,   -- skin | sticker | container | agent | music_kit | charm
 
     quality          SMALLINT,
-    paint_index      INTEGER,
+    phase            TEXT,               -- Phase 1..4 | Ruby | Sapphire | Black Pearl | Emerald
     wear_name        TEXT,               -- Factory New .. Battle-Scarred
     collection       TEXT,
     is_stattrak      BOOLEAN,
     is_souvenir      BOOLEAN,
 
-    first_seen       TIMESTAMPTZ NOT NULL DEFAULT now()
+    first_seen       TIMESTAMPTZ NOT NULL DEFAULT now(),
+
+    PRIMARY KEY (market_hash_name, paint_index)
 );
 
 CREATE INDEX items_type_idx        ON items (type);
 CREATE INDEX items_collection_idx  ON items (collection) WHERE collection IS NOT NULL;
-CREATE INDEX items_paint_index_idx ON items (paint_index) WHERE paint_index IS NOT NULL;
+CREATE INDEX items_paint_index_idx ON items (paint_index) WHERE paint_index >= 0;
 
 
 CREATE TABLE item_reference (
-    market_hash_name TEXT NOT NULL REFERENCES items (market_hash_name),
+    market_hash_name TEXT    NOT NULL,
+    paint_index      INTEGER NOT NULL,
     last_updated     TIMESTAMPTZ NOT NULL,
 
     base_price       INTEGER NOT NULL,
@@ -42,18 +46,21 @@ CREATE TABLE item_reference (
 
     observed_at      TIMESTAMPTZ NOT NULL DEFAULT now(),
 
-    PRIMARY KEY (market_hash_name, last_updated)
+    PRIMARY KEY (market_hash_name, paint_index, last_updated),
+    FOREIGN KEY (market_hash_name, paint_index)
+        REFERENCES items (market_hash_name, paint_index)
 );
 
 CREATE TABLE listings (
     id                 BIGINT PRIMARY KEY,
     created_at         TIMESTAMPTZ NOT NULL,
-    
+
     listing_type       TEXT NOT NULL, -- buy_now | auction.
     price              INTEGER,
 
-    market_hash_name   TEXT NOT NULL REFERENCES items (market_hash_name),
-    asset_id           BIGINT NOT NULL, -- steam inventory id (unique to each instance of a skin)
+    market_hash_name   TEXT    NOT NULL,
+    paint_index        INTEGER NOT NULL,
+    asset_id           BIGINT  NOT NULL, -- steam inventory id (unique to each instance of a skin)
 
     -- unique item attributes (everything else is on items)
     paint_seed         INTEGER,
@@ -66,10 +73,13 @@ CREATE TABLE listings (
     predicted_price    INTEGER,
     reference_updated  TIMESTAMPTZ,
 
-    ingested_at        TIMESTAMPTZ NOT NULL DEFAULT now()
+    ingested_at        TIMESTAMPTZ NOT NULL DEFAULT now(),
+
+    FOREIGN KEY (market_hash_name, paint_index)
+        REFERENCES items (market_hash_name, paint_index)
 );
 
-CREATE INDEX listings_item_created_idx ON listings (market_hash_name, created_at DESC);
+CREATE INDEX listings_item_created_idx ON listings (market_hash_name, paint_index, created_at DESC);
 CREATE INDEX listings_created_idx ON listings (created_at DESC);
 CREATE INDEX listings_asset_idx ON listings (asset_id);
 

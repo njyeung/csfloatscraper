@@ -16,11 +16,10 @@ export class ItemsController {
 
   @Get()
   search(
-    @Query('type') type?: string,
-    @Query('search') search?: string,
+    @Query('search') search: string,
     @Query('limit', new DefaultValuePipe(20), ParseIntPipe) limit: number = 20,
   ): Promise<Item[]> {
-    return this.items.search({ type, search, limit: clamp(limit) });
+    return this.items.search( search, clamp(limit));
   }
 
   // market_hash_name contains spaces and pipes ("AK-47 | Redline (Field-Tested)"),

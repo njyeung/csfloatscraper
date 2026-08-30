@@ -27,7 +27,13 @@ class Listing:
         self.asset_id = int(dict["item"]["asset_id"])
 
         self.quality = dict["item"].get("quality")
-        self.paint_index = dict["item"].get("paint_index", None)
+
+        # paint_index is part of the pk, Items with no paint index 
+        # (stickers, charms, containers, agents, music kits) get -1.
+        paint_index = dict["item"].get("paint_index")
+        self.paint_index = -1 if paint_index is None else paint_index
+
+        self.phase = dict["item"].get("phase", None)
         self.paint_seed = dict["item"].get("paint_seed", None)
         self.float_value = dict["item"].get("float_value", None)
         self.is_stattrak = dict["item"].get("is_stattrak", None)
@@ -64,6 +70,7 @@ class Listing:
             Souvenir: {self.is_souvenir}
             Collection: {self.collection}
             Paint index: {self.paint_index}
+            Phase: {self.phase}
             Paint Seed: {self.paint_seed}
 
             Base price: {self.base_price}
@@ -80,20 +87,21 @@ class DB:
             sys.exit("DATABASE_URL not set.")
 
         self.ITEM_SQL = """
-        INSERT INTO items (market_hash_name, def_index, item_name, rarity, rarity_name, type,
-                        quality, paint_index, wear_name, collection, is_stattrak, is_souvenir)
-        VALUES (%(market_hash_name)s, %(def_index)s, %(item_name)s, %(rarity)s, %(rarity_name)s, %(type)s,
-                %(quality)s, %(paint_index)s, %(wear_name)s, %(collection)s, %(is_stattrak)s, %(is_souvenir)s)
-        ON CONFLICT (market_hash_name) DO NOTHING
+        INSERT INTO items (market_hash_name, paint_index, def_index, item_name, rarity, rarity_name, type,
+                        quality, phase, wear_name, collection, is_stattrak, is_souvenir)
+        VALUES (%(market_hash_name)s, %(paint_index)s, %(def_index)s, %(item_name)s, %(rarity)s, %(rarity_name)s, %(type)s,
+                %(quality)s, %(phase)s, %(wear_name)s, %(collection)s, %(is_stattrak)s, %(is_souvenir)s)
+        ON CONFLICT (market_hash_name, paint_index) DO NOTHING
         """
 
         self.REFERENCE_SQL = """
-        INSERT INTO item_reference (market_hash_name, last_updated, base_price, quantity)
-        SELECT %(market_hash_name)s, %(last_updated)s, %(base_price)s, %(quantity)s
+        INSERT INTO item_reference (market_hash_name, paint_index, last_updated, base_price, quantity)
+        SELECT %(market_hash_name)s, %(paint_index)s, %(last_updated)s, %(base_price)s, %(quantity)s
         WHERE NOT EXISTS (
             SELECT 1 FROM (
                 SELECT base_price, quantity, last_updated FROM item_reference
                 WHERE market_hash_name = %(market_hash_name)s
+                  AND paint_index = %(paint_index)s
                 ORDER BY last_updated DESC LIMIT 1
             ) prev
             WHERE prev.last_updated >= %(last_updated)s
@@ -102,10 +110,10 @@ class DB:
         """
 
         self.LISTING_SQL = """
-        INSERT INTO listings (id, created_at, listing_type, price, market_hash_name, asset_id,
+        INSERT INTO listings (id, created_at, listing_type, price, market_hash_name, paint_index, asset_id,
                             paint_seed, float_value, serialized_inspect, keychain_index,
                             base_price, predicted_price, reference_updated)
-        VALUES (%(id)s, %(created_at)s, %(listing_type)s, %(price)s, %(market_hash_name)s, %(asset_id)s,
+        VALUES (%(id)s, %(created_at)s, %(listing_type)s, %(price)s, %(market_hash_name)s, %(paint_index)s, %(asset_id)s,
                 %(paint_seed)s, %(float_value)s, %(serialized_inspect)s, %(keychain_index)s,
                 %(base_price)s, %(predicted_price)s, %(last_updated)s)
         ON CONFLICT (id) DO NOTHING

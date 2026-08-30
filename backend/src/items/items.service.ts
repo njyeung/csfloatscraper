@@ -8,12 +8,8 @@ import { ItemReference } from './dto/item-reference.dto';
 export class ItemsService {
   constructor(private readonly items: ItemsRepository) {}
 
-  search(params: {
-    type?: string;
-    search?: string;
-    limit: number;
-  }): Promise<Item[]> {
-    return this.items.search(params);
+  search(search: string, limit: number): Promise<Item[]> {
+    return this.items.search(search, limit);
   }
 
   async recentListings(
@@ -23,16 +19,15 @@ export class ItemsService {
     if (!(await this.items.exists(marketHashName))) {
       throw new NotFoundException(`No item named "${marketHashName}"`);
     }
+
     return this.items.recentListings(marketHashName, limit);
   }
 
-  async referenceHistory(
-    marketHashName: string,
-    limit: number,
-  ): Promise<ItemReference[]> {
+  async referenceHistory(marketHashName: string, limit: number): Promise<ItemReference[]> {
     if (!(await this.items.exists(marketHashName))) {
       throw new NotFoundException(`No item named "${marketHashName}"`);
     }
+    
     return this.items.referenceHistory(marketHashName, limit);
   }
 }
